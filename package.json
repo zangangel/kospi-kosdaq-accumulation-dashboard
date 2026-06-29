@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "node tests/accumulation.test.mjs",
+    "fetch:naver": "node scripts/fetch-naver-brokers.mjs",
     "serve": "python -m http.server 5173"
   },
   "keywords": ["kospi", "kosdaq", "accumulation", "broker", "dashboard", "korea-stock"],

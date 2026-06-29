@@ -1,0 +1,30 @@
+name: Update Naver broker accumulation data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # KST 16:30 on weekdays = UTC 07:30
+    - cron: "30 7 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch Naver broker data
+        run: npm run fetch:naver
+      - name: Run tests
+        run: npm test
+      - name: Commit updated auto data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Naver broker accumulation data"
+          file_pattern: data/auto/latest.json data/auto/latest.csv

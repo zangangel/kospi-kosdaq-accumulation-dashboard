@@ -7,6 +7,8 @@
 ## 핵심 기능
 
 - CSV 업로드 또는 샘플 데이터 로드
+- 네이버증권 거래원정보 기반 관심종목 자동 업데이트
+- 당일/5일/20일/60일 누적 기간 전환
 - 종목별 A1/A2/A3 점수 및 등급 계산
 - 시가총액 구간별 해석 포인트 자동 표시
 - 최근 창 vs 장기 창 비교를 위한 기간 필터
@@ -17,10 +19,17 @@
 
 ```bash
 npm test
+npm run fetch:naver
 npm run serve
 ```
 
 브라우저에서 `http://localhost:5173` 접속.
+
+## 자동 업데이트
+
+`data/watchlist.csv`에 관심종목을 넣으면 GitHub Actions가 평일 한국시간 16:30에 네이버증권 거래원정보를 수집해 `data/auto/latest.json`을 갱신합니다. 사이트는 이 자동 데이터를 우선 표시하고, 기간 선택에서 당일/5일/20일/60일 누적 매집비를 전환할 수 있습니다.
+
+자세한 내용은 [`docs/auto-update.md`](docs/auto-update.md)를 참고하세요.
 
 ## GitHub Pages 운영
 

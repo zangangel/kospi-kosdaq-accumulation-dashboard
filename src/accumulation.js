@@ -48,6 +48,8 @@ export function normalizeRows(rows) {
     const floatShares = toNumber(row.float_shares, toNumber(row.listed_shares));
     return {
       date: row.date,
+      period: row.period || '',
+      source: row.source || '',
       ticker: row.ticker,
       name: row.name || row.ticker,
       market: row.market || '',
@@ -108,6 +110,8 @@ export function calculateStock(rows) {
   const band = marketCapBand(latest.marketCapKrw);
   return {
     ticker: latest.ticker,
+    period: latest.period,
+    source: latest.source,
     name: latest.name,
     market: latest.market,
     close: latest.close,
