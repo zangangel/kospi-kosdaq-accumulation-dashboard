@@ -23,6 +23,8 @@ GitHub Actions 워크플로:
 평일 한국시간 16:30
 ```
 
+워크플로는 네이버 데이터를 수집하고, `data/auto/latest.json` / `latest.csv`를 커밋한 뒤 GitHub Pages까지 직접 재배포한다.
+
 수동 실행도 가능하다.
 
 ```text
