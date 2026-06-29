@@ -1,0 +1,12 @@
+{
+  "name": "kospi-kosdaq-accumulation-dashboard",
+  "version": "0.1.0",
+  "description": "KOSPI/KOSDAQ broker accumulation ratio dashboard based on transparent public-video approximation rules.",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/accumulation.test.mjs",
+    "serve": "python -m http.server 5173"
+  },
+  "keywords": ["kospi", "kosdaq", "accumulation", "broker", "dashboard", "korea-stock"],
+  "license": "MIT"
+}

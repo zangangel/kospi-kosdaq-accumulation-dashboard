@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KOSPI/KOSDAQ 매집비 대시보드</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Korea Broker Accumulation Ratio</p>
+      <h1>코스피·코스닥 매집비 검토 대시보드</h1>
+      <p>거래원별 매수·매도 CSV를 넣으면 A1/A2/A3 매집비와 종목별 집중도를 계산합니다.</p>
+    </div>
+    <div class="hero-panel"><b>Transparent Approximation</b><span>공개 영상 기반 근사 공식 · 비공개 로직 미복제</span></div>
+  </header>
+  <main>
+    <section class="controls">
+      <label class="file-label">CSV 업로드 <input id="csvFile" type="file" accept=".csv,text/csv" /></label>
+      <button id="sampleBtn">샘플 데이터 로드</button>
+      <input id="search" placeholder="종목명/티커/시장 검색" />
+      <label>시작일 <input id="startDate" type="date" /></label>
+      <label>종료일 <input id="endDate" type="date" /></label>
+      <span id="csvStatus">대기 중</span>
+    </section>
+    <section id="summary" class="summary"></section>
+    <section id="cards" class="cards"></section>
+    <section class="layout">
+      <div class="table-wrap">
+        <h2>종목별 매집비 랭킹</h2>
+        <table><thead><tr><th>종목</th><th>등급</th><th>A1</th><th>A2</th><th>A3</th><th>종가</th><th>시총</th><th>순매수</th></tr></thead><tbody id="resultBody"></tbody></table>
+      </div>
+      <aside id="detail" class="detail"></aside>
+    </section>
+    <section class="method"><h2>계산 로직</h2><ol><li><b>A1</b> = 기간 총매수 / 총매도 × 100</li><li><b>A2</b> = 양수 순매수 거래원 합 / 유통주식수 × 100</li><li><b>A3</b> = 양수 순매수 상위 3개 거래원 합 / 유통주식수 × 100</li></ol><p>A1은 A≥300, B≥200, C≥130. A2/A3는 A≥5%, B≥3%, C≥1.5% 기준입니다.</p></section>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
