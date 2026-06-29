@@ -22,6 +22,16 @@ npm run serve
 
 브라우저에서 `http://localhost:5173` 접속.
 
+## GitHub Pages 운영
+
+GitHub Pages 배포 워크플로를 포함했습니다. 레포 생성 후 `main` 브랜치에 push하고, GitHub 레포의 `Settings → Pages → Source`를 `GitHub Actions`로 설정하면 아래 주소에서 운영됩니다.
+
+```text
+https://zangangel.github.io/kospi-kosdaq-accumulation-dashboard/
+```
+
+자세한 설정은 [`docs/github-pages.md`](docs/github-pages.md)를 참고하세요.
+
 ## CSV 형식
 
 ```csv
