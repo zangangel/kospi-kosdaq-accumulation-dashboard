@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-25T08:04:33.387Z",
-  "updatedDateKst": "2026-08-25",
+  "updatedAt": "2026-08-26T08:05:46.428Z",
+  "updatedDateKst": "2026-08-26",
   "source": "Naver Finance 거래원정보, 20분 지연, 상위 거래원 기반 근사치",
   "periods": [
     "1",
@@ -9,100 +9,10 @@
     "60"
   ],
   "watchlistCount": 6,
-  "rowCount": 155,
+  "rowCount": 148,
   "errors": [],
   "dashboards": {
     "1": [
-      {
-        "ticker": "086520",
-        "period": "1",
-        "source": "naver-finance-broker-table",
-        "name": "에코프로",
-        "market": "KOSDAQ",
-        "close": 83000,
-        "marketCapKrw": 2200000000000,
-        "floatShares": 26627668,
-        "totalBuy": 366572,
-        "totalSell": 375036,
-        "netBuy": -8464,
-        "a1": 97.74314999093421,
-        "a2": 0.6537297971418301,
-        "a3": 0.6537297971418301,
-        "grades": "DDD",
-        "gradeParts": [
-          "D",
-          "D",
-          "D"
-        ],
-        "band": {
-          "label": "1조~10조 중형주",
-          "focus": "A1 + A2 동시 확인"
-        },
-        "brokers": [
-          {
-            "broker": "골드만삭스",
-            "buy": 96701,
-            "sell": 0,
-            "netBuy": 96701
-          },
-          {
-            "broker": "미래에셋증권",
-            "buy": 61121,
-            "sell": 0,
-            "netBuy": 61121
-          },
-          {
-            "broker": "키움증권",
-            "buy": 76156,
-            "sell": 59905,
-            "netBuy": 16251
-          },
-          {
-            "broker": "삼성증권",
-            "buy": 65572,
-            "sell": 71126,
-            "netBuy": -5554
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 67022,
-            "sell": 91573,
-            "netBuy": -24551
-          },
-          {
-            "broker": "제이피모간",
-            "buy": 0,
-            "sell": 65797,
-            "netBuy": -65797
-          },
-          {
-            "broker": "신한투자증권",
-            "buy": 0,
-            "sell": 86635,
-            "netBuy": -86635
-          }
-        ],
-        "topBrokers": [
-          {
-            "broker": "골드만삭스",
-            "buy": 96701,
-            "sell": 0,
-            "netBuy": 96701
-          },
-          {
-            "broker": "미래에셋증권",
-            "buy": 61121,
-            "sell": 0,
-            "netBuy": 61121
-          },
-          {
-            "broker": "키움증권",
-            "buy": 76156,
-            "sell": 59905,
-            "netBuy": 16251
-          }
-        ]
-      },
       {
         "ticker": "000660",
         "period": "1",
@@ -112,15 +22,15 @@
         "close": 250000,
         "marketCapKrw": 180000000000000,
         "floatShares": 728002365,
-        "totalBuy": 2050444,
-        "totalSell": 1644590,
-        "netBuy": 405854,
-        "a1": 124.67812646313064,
-        "a2": 0.1968742230665693,
-        "a3": 0.18504596478886437,
-        "grades": "DDD",
+        "totalBuy": 1579502,
+        "totalSell": 1197767,
+        "netBuy": 381735,
+        "a1": 131.87055579257068,
+        "a2": 0.12023381270196834,
+        "a3": 0.12023381270196834,
+        "grades": "CDD",
         "gradeParts": [
-          "D",
+          "C",
           "D",
           "D"
         ],
@@ -131,167 +41,65 @@
         "brokers": [
           {
             "broker": "SK증권",
-            "buy": 726224,
+            "buy": 692638,
             "sell": 0,
-            "netBuy": 726224
-          },
-          {
-            "broker": "삼성증권",
-            "buy": 388757,
-            "sell": 0,
-            "netBuy": 388757
+            "netBuy": 692638
           },
           {
             "broker": "유진투자증권",
-            "buy": 232158,
+            "buy": 172053,
             "sell": 0,
-            "netBuy": 232158
-          },
-          {
-            "broker": "키움증권",
-            "buy": 389716,
-            "sell": 305241,
-            "netBuy": 84475
+            "netBuy": 172053
           },
           {
             "broker": "KB증권",
-            "buy": 313589,
-            "sell": 311954,
-            "netBuy": 1635
-          },
-          {
-            "broker": "골드만삭스",
-            "buy": 0,
-            "sell": 289242,
-            "netBuy": -289242
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 0,
-            "sell": 295227,
-            "netBuy": -295227
-          },
-          {
-            "broker": "모간스탠리",
-            "buy": 0,
-            "sell": 442926,
-            "netBuy": -442926
-          }
-        ],
-        "topBrokers": [
-          {
-            "broker": "SK증권",
-            "buy": 726224,
-            "sell": 0,
-            "netBuy": 726224
+            "buy": 205780,
+            "sell": 195166,
+            "netBuy": 10614
           },
           {
             "broker": "삼성증권",
-            "buy": 388757,
-            "sell": 0,
-            "netBuy": 388757
-          },
-          {
-            "broker": "유진투자증권",
-            "buy": 232158,
-            "sell": 0,
-            "netBuy": 232158
-          }
-        ]
-      },
-      {
-        "ticker": "247540",
-        "period": "1",
-        "source": "naver-finance-broker-table",
-        "name": "에코프로비엠",
-        "market": "KOSDAQ",
-        "close": 130000,
-        "marketCapKrw": 13000000000000,
-        "floatShares": 97801344,
-        "totalBuy": 213634,
-        "totalSell": 180123,
-        "netBuy": 33511,
-        "a1": 118.60450914097589,
-        "a2": 0.1483374298005557,
-        "a3": 0.1368069134101061,
-        "grades": "DDD",
-        "gradeParts": [
-          "D",
-          "D",
-          "D"
-        ],
-        "band": {
-          "label": "대형주/주도주",
-          "focus": "A1 매수강도 중심 + 수급 지속성 확인"
-        },
-        "brokers": [
-          {
-            "broker": "삼성증권",
-            "buy": 63314,
-            "sell": 0,
-            "netBuy": 63314
-          },
-          {
-            "broker": "골드만삭스",
-            "buy": 39289,
-            "sell": 0,
-            "netBuy": 39289
-          },
-          {
-            "broker": "유진투자증권",
-            "buy": 31196,
-            "sell": 0,
-            "netBuy": 31196
+            "buy": 255037,
+            "sell": 285299,
+            "netBuy": -30262
           },
           {
             "broker": "키움증권",
-            "buy": 48125,
-            "sell": 37484,
-            "netBuy": 10641
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 31710,
-            "sell": 31074,
-            "netBuy": 636
-          },
-          {
-            "broker": "신한투자증권",
-            "buy": 0,
-            "sell": 32488,
-            "netBuy": -32488
+            "buy": 253994,
+            "sell": 328761,
+            "netBuy": -74767
           },
           {
             "broker": "모간스탠리",
             "buy": 0,
-            "sell": 38326,
-            "netBuy": -38326
+            "sell": 184018,
+            "netBuy": -184018
           },
           {
             "broker": "제이피모간",
             "buy": 0,
-            "sell": 40751,
-            "netBuy": -40751
+            "sell": 204523,
+            "netBuy": -204523
           }
         ],
         "topBrokers": [
           {
-            "broker": "삼성증권",
-            "buy": 63314,
+            "broker": "SK증권",
+            "buy": 692638,
             "sell": 0,
-            "netBuy": 63314
-          },
-          {
-            "broker": "골드만삭스",
-            "buy": 39289,
-            "sell": 0,
-            "netBuy": 39289
+            "netBuy": 692638
           },
           {
             "broker": "유진투자증권",
-            "buy": 31196,
+            "buy": 172053,
             "sell": 0,
-            "netBuy": 31196
+            "netBuy": 172053
+          },
+          {
+            "broker": "KB증권",
+            "buy": 205780,
+            "sell": 195166,
+            "netBuy": 10614
           }
         ]
       },
@@ -304,15 +112,15 @@
         "close": 80000,
         "marketCapKrw": 480000000000000,
         "floatShares": 5969782550,
-        "totalBuy": 11032622,
-        "totalSell": 9875502,
-        "netBuy": 1157120,
-        "a1": 111.71707524336485,
-        "a2": 0.12237581417433704,
-        "a3": 0.105240784691563,
-        "grades": "DDD",
+        "totalBuy": 11210486,
+        "totalSell": 7953507,
+        "netBuy": 3256979,
+        "a1": 140.95022485049677,
+        "a2": 0.11810446931605574,
+        "a3": 0.11810446931605574,
+        "grades": "CDD",
         "gradeParts": [
-          "D",
+          "C",
           "D",
           "D"
         ],
@@ -322,72 +130,156 @@
         },
         "brokers": [
           {
+            "broker": "골드만삭스",
+            "buy": 4563550,
+            "sell": 0,
+            "netBuy": 4563550
+          },
+          {
             "broker": "삼성증권",
-            "buy": 3408121,
-            "sell": 0,
-            "netBuy": 3408121
+            "buy": 2937949,
+            "sell": 1352232,
+            "netBuy": 1585717
           },
           {
-            "broker": "제이피모간",
-            "buy": 1798348,
+            "broker": "한화투자증권",
+            "buy": 901313,
             "sell": 0,
-            "netBuy": 1798348
-          },
-          {
-            "broker": "LS증권",
-            "buy": 1076177,
-            "sell": 0,
-            "netBuy": 1076177
+            "netBuy": 901313
           },
           {
             "broker": "KB증권",
-            "buy": 2936961,
-            "sell": 2152198,
-            "netBuy": 784763
+            "buy": 1723554,
+            "sell": 1981581,
+            "netBuy": -258027
           },
           {
-            "broker": "한국투자증권",
-            "buy": 1813015,
-            "sell": 1574854,
-            "netBuy": 238161
+            "broker": "미래에셋증권",
+            "buy": 1084120,
+            "sell": 1735424,
+            "netBuy": -651304
           },
           {
-            "broker": "메릴린치",
+            "broker": "NH투자증권",
             "buy": 0,
-            "sell": 1432213,
-            "netBuy": -1432213
+            "sell": 1398856,
+            "netBuy": -1398856
           },
           {
-            "broker": "모간스탠리",
+            "broker": "키움증권",
             "buy": 0,
-            "sell": 1963530,
-            "netBuy": -1963530
-          },
-          {
-            "broker": "골드만삭스",
-            "buy": 0,
-            "sell": 2752707,
-            "netBuy": -2752707
+            "sell": 1485414,
+            "netBuy": -1485414
           }
         ],
         "topBrokers": [
           {
-            "broker": "삼성증권",
-            "buy": 3408121,
+            "broker": "골드만삭스",
+            "buy": 4563550,
             "sell": 0,
-            "netBuy": 3408121
+            "netBuy": 4563550
           },
+          {
+            "broker": "삼성증권",
+            "buy": 2937949,
+            "sell": 1352232,
+            "netBuy": 1585717
+          },
+          {
+            "broker": "한화투자증권",
+            "buy": 901313,
+            "sell": 0,
+            "netBuy": 901313
+          }
+        ]
+      },
+      {
+        "ticker": "086520",
+        "period": "1",
+        "source": "naver-finance-broker-table",
+        "name": "에코프로",
+        "market": "KOSDAQ",
+        "close": 83000,
+        "marketCapKrw": 2200000000000,
+        "floatShares": 26627668,
+        "totalBuy": 368510,
+        "totalSell": 348766,
+        "netBuy": 19744,
+        "a1": 105.6611022863467,
+        "a2": 0.7283852269751898,
+        "a3": 0.7283852269751898,
+        "grades": "DDD",
+        "gradeParts": [
+          "D",
+          "D",
+          "D"
+        ],
+        "band": {
+          "label": "1조~10조 중형주",
+          "focus": "A1 + A2 동시 확인"
+        },
+        "brokers": [
           {
             "broker": "제이피모간",
-            "buy": 1798348,
+            "buy": 98633,
             "sell": 0,
-            "netBuy": 1798348
+            "netBuy": 98633
           },
           {
-            "broker": "LS증권",
-            "buy": 1076177,
+            "broker": "골드만삭스",
+            "buy": 66268,
             "sell": 0,
-            "netBuy": 1076177
+            "netBuy": 66268
+          },
+          {
+            "broker": "메릴린치",
+            "buy": 80992,
+            "sell": 51941,
+            "netBuy": 29051
+          },
+          {
+            "broker": "삼성증권",
+            "buy": 58325,
+            "sell": 72984,
+            "netBuy": -14659
+          },
+          {
+            "broker": "한국투자증권",
+            "buy": 64292,
+            "sell": 87507,
+            "netBuy": -23215
+          },
+          {
+            "broker": "NH투자증권",
+            "buy": 0,
+            "sell": 54558,
+            "netBuy": -54558
+          },
+          {
+            "broker": "키움증권",
+            "buy": 0,
+            "sell": 81776,
+            "netBuy": -81776
+          }
+        ],
+        "topBrokers": [
+          {
+            "broker": "제이피모간",
+            "buy": 98633,
+            "sell": 0,
+            "netBuy": 98633
+          },
+          {
+            "broker": "골드만삭스",
+            "buy": 66268,
+            "sell": 0,
+            "netBuy": 66268
+          },
+          {
+            "broker": "메릴린치",
+            "buy": 80992,
+            "sell": 51941,
+            "netBuy": 29051
           }
         ]
       },
@@ -400,12 +292,12 @@
         "close": 415000,
         "marketCapKrw": 22000000000000,
         "floatShares": 53011179,
-        "totalBuy": 142301,
-        "totalSell": 154544,
-        "netBuy": -12243,
-        "a1": 92.07798426338131,
-        "a2": 0.11205372361176874,
-        "a3": 0.10492881133619006,
+        "totalBuy": 400284,
+        "totalSell": 438085,
+        "netBuy": -37801,
+        "a1": 91.37130922081332,
+        "a2": 0.1698830354254147,
+        "a3": 0.1698830354254147,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -419,65 +311,143 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 28499,
+            "buy": 70693,
             "sell": 0,
-            "netBuy": 28499
-          },
-          {
-            "broker": "삼성증권",
-            "buy": 22645,
-            "sell": 0,
-            "netBuy": 22645
-          },
-          {
-            "broker": "키움증권",
-            "buy": 36786,
-            "sell": 32306,
-            "netBuy": 4480
-          },
-          {
-            "broker": "미래에셋증권",
-            "buy": 30807,
-            "sell": 27030,
-            "netBuy": 3777
+            "netBuy": 70693
           },
           {
             "broker": "신한투자증권",
-            "buy": 23564,
-            "sell": 30669,
-            "netBuy": -7105
+            "buy": 95286,
+            "sell": 75922,
+            "netBuy": 19364
           },
           {
             "broker": "한국투자증권",
-            "buy": 0,
-            "sell": 29740,
-            "netBuy": -29740
+            "buy": 57535,
+            "sell": 77094,
+            "netBuy": -19559
           },
           {
-            "broker": "메리츠증권",
+            "broker": "미래에셋증권",
+            "buy": 69359,
+            "sell": 94424,
+            "netBuy": -25065
+          },
+          {
+            "broker": "키움증권",
+            "buy": 107411,
+            "sell": 132914,
+            "netBuy": -25503
+          },
+          {
+            "broker": "삼성증권",
             "buy": 0,
-            "sell": 34799,
-            "netBuy": -34799
+            "sell": 57731,
+            "netBuy": -57731
           }
         ],
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 28499,
+            "buy": 70693,
             "sell": 0,
-            "netBuy": 28499
+            "netBuy": 70693
           },
           {
-            "broker": "삼성증권",
-            "buy": 22645,
+            "broker": "신한투자증권",
+            "buy": 95286,
+            "sell": 75922,
+            "netBuy": 19364
+          }
+        ]
+      },
+      {
+        "ticker": "247540",
+        "period": "1",
+        "source": "naver-finance-broker-table",
+        "name": "에코프로비엠",
+        "market": "KOSDAQ",
+        "close": 130000,
+        "marketCapKrw": 13000000000000,
+        "floatShares": 97801344,
+        "totalBuy": 136557,
+        "totalSell": 122371,
+        "netBuy": 14186,
+        "a1": 111.59261589755742,
+        "a2": 0.0832984462872003,
+        "a3": 0.06504307343670042,
+        "grades": "DDD",
+        "gradeParts": [
+          "D",
+          "D",
+          "D"
+        ],
+        "band": {
+          "label": "대형주/주도주",
+          "focus": "A1 매수강도 중심 + 수급 지속성 확인"
+        },
+        "brokers": [
+          {
+            "broker": "신한투자증권",
+            "buy": 25153,
             "sell": 0,
-            "netBuy": 22645
+            "netBuy": 25153
+          },
+          {
+            "broker": "KB증권",
+            "buy": 20056,
+            "sell": 0,
+            "netBuy": 20056
           },
           {
             "broker": "키움증권",
-            "buy": 36786,
-            "sell": 32306,
-            "netBuy": 4480
+            "buy": 37755,
+            "sell": 19351,
+            "netBuy": 18404
+          },
+          {
+            "broker": "한국투자증권",
+            "buy": 34686,
+            "sell": 19835,
+            "netBuy": 14851
+          },
+          {
+            "broker": "미래에셋증권",
+            "buy": 18907,
+            "sell": 15904,
+            "netBuy": 3003
+          },
+          {
+            "broker": "제이피모간",
+            "buy": 0,
+            "sell": 19094,
+            "netBuy": -19094
+          },
+          {
+            "broker": "메릴린치",
+            "buy": 0,
+            "sell": 48187,
+            "netBuy": -48187
+          }
+        ],
+        "topBrokers": [
+          {
+            "broker": "신한투자증권",
+            "buy": 25153,
+            "sell": 0,
+            "netBuy": 25153
+          },
+          {
+            "broker": "KB증권",
+            "buy": 20056,
+            "sell": 0,
+            "netBuy": 20056
+          },
+          {
+            "broker": "키움증권",
+            "buy": 37755,
+            "sell": 19351,
+            "netBuy": 18404
           }
         ]
       },
@@ -490,12 +460,12 @@
         "close": 204000,
         "marketCapKrw": 27000000000000,
         "floatShares": 134997805,
-        "totalBuy": 178948,
-        "totalSell": 170467,
-        "netBuy": 8481,
-        "a1": 104.97515648189972,
-        "a2": 0.1108114313414207,
-        "a3": 0.08201392607827956,
+        "totalBuy": 147766,
+        "totalSell": 157470,
+        "netBuy": -9704,
+        "a1": 93.83755635994157,
+        "a2": 0.0439207141182777,
+        "a3": 0.043809601200552856,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -509,83 +479,155 @@
         "brokers": [
           {
             "broker": "대신증권",
-            "buy": 45395,
+            "buy": 33628,
             "sell": 0,
-            "netBuy": 45395
+            "netBuy": 33628
+          },
+          {
+            "broker": "iM증권",
+            "buy": 24680,
+            "sell": 0,
+            "netBuy": 24680
           },
           {
             "broker": "한국투자증권",
-            "buy": 34601,
-            "sell": 0,
-            "netBuy": 34601
-          },
-          {
-            "broker": "키움증권",
-            "buy": 30721,
-            "sell": 0,
-            "netBuy": 30721
+            "buy": 28577,
+            "sell": 27743,
+            "netBuy": 834
           },
           {
             "broker": "삼성증권",
-            "buy": 29573,
-            "sell": 0,
-            "netBuy": 29573
+            "buy": 28050,
+            "sell": 27900,
+            "netBuy": 150
           },
           {
             "broker": "NH투자증권",
-            "buy": 38658,
-            "sell": 29355,
-            "netBuy": 9303
-          },
-          {
-            "broker": "신한투자증권",
-            "buy": 0,
-            "sell": 30478,
-            "netBuy": -30478
-          },
-          {
-            "broker": "제이피모간",
-            "buy": 0,
-            "sell": 33475,
-            "netBuy": -33475
+            "buy": 32831,
+            "sell": 34194,
+            "netBuy": -1363
           },
           {
             "broker": "미래에셋증권",
             "buy": 0,
-            "sell": 34819,
-            "netBuy": -34819
+            "sell": 26352,
+            "netBuy": -26352
           },
           {
-            "broker": "메릴린치",
+            "broker": "키움증권",
             "buy": 0,
-            "sell": 42340,
-            "netBuy": -42340
+            "sell": 41281,
+            "netBuy": -41281
           }
         ],
         "topBrokers": [
           {
             "broker": "대신증권",
-            "buy": 45395,
+            "buy": 33628,
             "sell": 0,
-            "netBuy": 45395
+            "netBuy": 33628
+          },
+          {
+            "broker": "iM증권",
+            "buy": 24680,
+            "sell": 0,
+            "netBuy": 24680
           },
           {
             "broker": "한국투자증권",
-            "buy": 34601,
-            "sell": 0,
-            "netBuy": 34601
-          },
-          {
-            "broker": "키움증권",
-            "buy": 30721,
-            "sell": 0,
-            "netBuy": 30721
+            "buy": 28577,
+            "sell": 27743,
+            "netBuy": 834
           }
         ]
       }
     ],
     "5": [
       {
+        "ticker": "000660",
+        "period": "5",
+        "source": "naver-finance-broker-table",
+        "name": "SK하이닉스",
+        "market": "KOSPI",
+        "close": 250000,
+        "marketCapKrw": 180000000000000,
+        "floatShares": 728002365,
+        "totalBuy": 9470209,
+        "totalSell": 6865136,
+        "netBuy": 2605073,
+        "a1": 137.9464150455286,
+        "a2": 0.6381396851643469,
+        "a3": 0.6381396851643469,
+        "grades": "CDD",
+        "gradeParts": [
+          "C",
+          "D",
+          "D"
+        ],
+        "band": {
+          "label": "대형주/주도주",
+          "focus": "A1 매수강도 중심 + 수급 지속성 확인"
+        },
+        "brokers": [
+          {
+            "broker": "SK증권",
+            "buy": 3639065,
+            "sell": 0,
+            "netBuy": 3639065
+          },
+          {
+            "broker": "유진투자증권",
+            "buy": 1006607,
+            "sell": 0,
+            "netBuy": 1006607
+          },
+          {
+            "broker": "KB증권",
+            "buy": 1313293,
+            "sell": 1359423,
+            "netBuy": -46130
+          },
+          {
+            "broker": "삼성증권",
+            "buy": 1845610,
+            "sell": 2010341,
+            "netBuy": -164731
+          },
+          {
+            "broker": "키움증권",
+            "buy": 1665634,
+            "sell": 1931731,
+            "netBuy": -266097
+          },
+          {
+            "broker": "미래에셋증권",
+            "buy": 0,
+            "sell": 757125,
+            "netBuy": -757125
+          },
+          {
+            "broker": "모간스탠리",
+            "buy": 0,
+            "sell": 806516,
+            "netBuy": -806516
+          }
+        ],
+        "topBrokers": [
+          {
+            "broker": "SK증권",
+            "buy": 3639065,
+            "sell": 0,
+            "netBuy": 3639065
+          },
+          {
+            "broker": "유진투자증권",
+            "buy": 1006607,
+            "sell": 0,
+            "netBuy": 1006607
+          }
+        ]
+      },
+      {
         "ticker": "086520",
         "period": "5",
         "source": "naver-finance-broker-table",
@@ -594,12 +636,12 @@
         "close": 83000,
         "marketCapKrw": 2200000000000,
         "floatShares": 26627668,
-        "totalBuy": 1650651,
-        "totalSell": 1765384,
-        "netBuy": -114733,
-        "a1": 93.50096069750265,
-        "a2": 0.9916339650922491,
-        "a3": 0.9916339650922491,
+        "totalBuy": 1627734,
+        "totalSell": 1825275,
+        "netBuy": -197541,
+        "a1": 89.17746640917123,
+        "a2": 1.0330307558288618,
+        "a3": 1.0330307558288618,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -612,150 +654,54 @@
         },
         "brokers": [
           {
-            "broker": "NH투자증권",
-            "buy": 196060,
+            "broker": "미래에셋증권",
+            "buy": 273103,
             "sell": 0,
-            "netBuy": 196060
+            "netBuy": 273103
           },
           {
-            "broker": "미래에셋증권",
-            "buy": 245651,
-            "sell": 195227,
-            "netBuy": 50424
+            "broker": "메릴린치",
+            "buy": 175136,
+            "sell": 173167,
+            "netBuy": 1969
           },
           {
             "broker": "키움증권",
-            "buy": 397210,
-            "sell": 379645,
-            "netBuy": 17565
+            "buy": 379398,
+            "sell": 414753,
+            "netBuy": -35355
           },
           {
             "broker": "한국투자증권",
-            "buy": 422660,
-            "sell": 443128,
-            "netBuy": -20468
+            "buy": 397454,
+            "sell": 452921,
+            "netBuy": -55467
           },
           {
             "broker": "삼성증권",
-            "buy": 389070,
-            "sell": 467677,
-            "netBuy": -78607
+            "buy": 402643,
+            "sell": 539069,
+            "netBuy": -136426
           },
           {
             "broker": "신한투자증권",
             "buy": 0,
-            "sell": 279707,
-            "netBuy": -279707
+            "sell": 245365,
+            "netBuy": -245365
           }
         ],
         "topBrokers": [
-          {
-            "broker": "NH투자증권",
-            "buy": 196060,
-            "sell": 0,
-            "netBuy": 196060
-          },
           {
             "broker": "미래에셋증권",
-            "buy": 245651,
-            "sell": 195227,
-            "netBuy": 50424
-          },
-          {
-            "broker": "키움증권",
-            "buy": 397210,
-            "sell": 379645,
-            "netBuy": 17565
-          }
-        ]
-      },
-      {
-        "ticker": "000660",
-        "period": "5",
-        "source": "naver-finance-broker-table",
-        "name": "SK하이닉스",
-        "market": "KOSPI",
-        "close": 250000,
-        "marketCapKrw": 180000000000000,
-        "floatShares": 728002365,
-        "totalBuy": 9070122,
-        "totalSell": 7646458,
-        "netBuy": 1423664,
-        "a1": 118.61860746505113,
-        "a2": 0.5256164243367534,
-        "a3": 0.5256164243367534,
-        "grades": "DDD",
-        "gradeParts": [
-          "D",
-          "D",
-          "D"
-        ],
-        "band": {
-          "label": "대형주/주도주",
-          "focus": "A1 매수강도 중심 + 수급 지속성 확인"
-        },
-        "brokers": [
-          {
-            "broker": "SK증권",
-            "buy": 2946427,
+            "buy": 273103,
             "sell": 0,
-            "netBuy": 2946427
+            "netBuy": 273103
           },
           {
-            "broker": "유진투자증권",
-            "buy": 834554,
-            "sell": 0,
-            "netBuy": 834554
-          },
-          {
-            "broker": "KB증권",
-            "buy": 1530257,
-            "sell": 1484738,
-            "netBuy": 45519
-          },
-          {
-            "broker": "키움증권",
-            "buy": 1832744,
-            "sell": 1894156,
-            "netBuy": -61412
-          },
-          {
-            "broker": "삼성증권",
-            "buy": 1926140,
-            "sell": 2118649,
-            "netBuy": -192509
-          },
-          {
-            "broker": "모간스탠리",
-            "buy": 0,
-            "sell": 966894,
-            "netBuy": -966894
-          },
-          {
-            "broker": "골드만삭스",
-            "buy": 0,
-            "sell": 1182021,
-            "netBuy": -1182021
-          }
-        ],
-        "topBrokers": [
-          {
-            "broker": "SK증권",
-            "buy": 2946427,
-            "sell": 0,
-            "netBuy": 2946427
-          },
-          {
-            "broker": "유진투자증권",
-            "buy": 834554,
-            "sell": 0,
-            "netBuy": 834554
-          },
-          {
-            "broker": "KB증권",
-            "buy": 1530257,
-            "sell": 1484738,
-            "netBuy": 45519
+            "broker": "메릴린치",
+            "buy": 175136,
+            "sell": 173167,
+            "netBuy": 1969
           }
         ]
       },
@@ -768,12 +714,12 @@
         "close": 130000,
         "marketCapKrw": 13000000000000,
         "floatShares": 97801344,
-        "totalBuy": 778343,
-        "totalSell": 714119,
-        "netBuy": 64224,
-        "a1": 108.99345907334772,
-        "a2": 0.3118760821937171,
-        "a3": 0.3118760821937171,
+        "totalBuy": 767651,
+        "totalSell": 679753,
+        "netBuy": 87898,
+        "a1": 112.93087342019822,
+        "a2": 0.30617779649326704,
+        "a3": 0.28773326468805993,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -787,9 +733,9 @@
         "brokers": [
           {
             "broker": "메릴린치",
-            "buy": 175195,
+            "buy": 145982,
             "sell": 0,
-            "netBuy": 175195
+            "netBuy": 145982
           },
           {
             "broker": "골드만삭스",
@@ -799,41 +745,41 @@
           },
           {
             "broker": "한국투자증권",
-            "buy": 209373,
-            "sell": 187098,
-            "netBuy": 22275
+            "buy": 199256,
+            "sell": 171380,
+            "netBuy": 27876
           },
           {
             "broker": "키움증권",
-            "buy": 179600,
-            "sell": 186966,
-            "netBuy": -7366
+            "buy": 197913,
+            "sell": 179874,
+            "netBuy": 18039
           },
           {
             "broker": "신한투자증권",
-            "buy": 106626,
-            "sell": 151695,
-            "netBuy": -45069
+            "buy": 116951,
+            "sell": 163020,
+            "netBuy": -46069
           },
           {
-            "broker": "KB증권",
+            "broker": "제이피모간",
             "buy": 0,
-            "sell": 94050,
-            "netBuy": -94050
+            "sell": 81511,
+            "netBuy": -81511
           },
           {
             "broker": "NH투자증권",
             "buy": 0,
-            "sell": 94310,
-            "netBuy": -94310
+            "sell": 83968,
+            "netBuy": -83968
           }
         ],
         "topBrokers": [
           {
             "broker": "메릴린치",
-            "buy": 175195,
+            "buy": 145982,
             "sell": 0,
-            "netBuy": 175195
+            "netBuy": 145982
           },
           {
             "broker": "골드만삭스",
@@ -843,9 +789,9 @@
           },
           {
             "broker": "한국투자증권",
-            "buy": 209373,
-            "sell": 187098,
-            "netBuy": 22275
+            "buy": 199256,
+            "sell": 171380,
+            "netBuy": 27876
           }
         ]
       },
@@ -858,12 +804,12 @@
         "close": 80000,
         "marketCapKrw": 480000000000000,
         "floatShares": 5969782550,
-        "totalBuy": 51682377,
-        "totalSell": 47242951,
-        "netBuy": 4439426,
-        "a1": 109.39701247705716,
-        "a2": 0.29196572662433073,
-        "a3": 0.2689535316491553,
+        "totalBuy": 50543269,
+        "totalSell": 45398878,
+        "netBuy": 5144391,
+        "a1": 111.33153775298148,
+        "a2": 0.2507935067082133,
+        "a3": 0.2398817524768972,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -877,59 +823,59 @@
         "brokers": [
           {
             "broker": "삼성증권",
-            "buy": 13218542,
-            "sell": 6086007,
-            "netBuy": 7132535
-          },
-          {
-            "broker": "맥쿼리",
-            "buy": 6311570,
-            "sell": 0,
-            "netBuy": 6311570
-          },
-          {
-            "broker": "미래에셋증권",
-            "buy": 10788453,
-            "sell": 8176617,
-            "netBuy": 2611836
-          },
-          {
-            "broker": "KB증권",
-            "buy": 14038435,
-            "sell": 12664657,
-            "netBuy": 1373778
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 7325377,
-            "sell": 12720377,
-            "netBuy": -5395000
+            "buy": 15558114,
+            "sell": 6963751,
+            "netBuy": 8594363
           },
           {
             "broker": "골드만삭스",
+            "buy": 4991207,
+            "sell": 0,
+            "netBuy": 4991207
+          },
+          {
+            "broker": "KB증권",
+            "buy": 13489326,
+            "sell": 12754477,
+            "netBuy": 734849
+          },
+          {
+            "broker": "미래에셋증권",
+            "buy": 9319754,
+            "sell": 8668346,
+            "netBuy": 651408
+          },
+          {
+            "broker": "한국투자증권",
+            "buy": 7184868,
+            "sell": 11287100,
+            "netBuy": -4102232
+          },
+          {
+            "broker": "키움증권",
             "buy": 0,
-            "sell": 7595293,
-            "netBuy": -7595293
+            "sell": 5725204,
+            "netBuy": -5725204
           }
         ],
         "topBrokers": [
           {
             "broker": "삼성증권",
-            "buy": 13218542,
-            "sell": 6086007,
-            "netBuy": 7132535
+            "buy": 15558114,
+            "sell": 6963751,
+            "netBuy": 8594363
           },
           {
-            "broker": "맥쿼리",
-            "buy": 6311570,
+            "broker": "골드만삭스",
+            "buy": 4991207,
             "sell": 0,
-            "netBuy": 6311570
+            "netBuy": 4991207
           },
           {
-            "broker": "미래에셋증권",
-            "buy": 10788453,
-            "sell": 8176617,
-            "netBuy": 2611836
+            "broker": "KB증권",
+            "buy": 13489326,
+            "sell": 12754477,
+            "netBuy": 734849
           }
         ]
       },
@@ -942,12 +888,12 @@
         "close": 204000,
         "marketCapKrw": 27000000000000,
         "floatShares": 134997805,
-        "totalBuy": 765910,
-        "totalSell": 697302,
-        "netBuy": 68608,
-        "a1": 109.83906542645798,
-        "a2": 0.16449304490543384,
-        "a3": 0.16449304490543384,
+        "totalBuy": 761181,
+        "totalSell": 678125,
+        "netBuy": 83056,
+        "a1": 112.24788940092165,
+        "a2": 0.1763769418324987,
+        "a3": 0.17022795296560564,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -961,59 +907,59 @@
         "brokers": [
           {
             "broker": "삼성증권",
-            "buy": 154901,
+            "buy": 170700,
             "sell": 0,
-            "netBuy": 154901
+            "netBuy": 170700
           },
           {
             "broker": "한국투자증권",
-            "buy": 167625,
-            "sell": 124067,
-            "netBuy": 43558
+            "buy": 164520,
+            "sell": 123357,
+            "netBuy": 41163
           },
           {
             "broker": "NH투자증권",
-            "buy": 221559,
-            "sell": 197956,
-            "netBuy": 23603
-          },
-          {
-            "broker": "키움증권",
-            "buy": 141544,
-            "sell": 159977,
-            "netBuy": -18433
-          },
-          {
-            "broker": "KB증권",
-            "buy": 80281,
-            "sell": 113052,
-            "netBuy": -32771
+            "buy": 208704,
+            "sell": 190763,
+            "netBuy": 17941
           },
           {
             "broker": "대신증권",
-            "buy": 0,
+            "buy": 110551,
             "sell": 102250,
-            "netBuy": -102250
+            "netBuy": 8301
+          },
+          {
+            "broker": "키움증권",
+            "buy": 106706,
+            "sell": 166706,
+            "netBuy": -60000
+          },
+          {
+            "broker": "미래에셋증권",
+            "buy": 0,
+            "sell": 95049,
+            "netBuy": -95049
           }
         ],
         "topBrokers": [
           {
             "broker": "삼성증권",
-            "buy": 154901,
+            "buy": 170700,
             "sell": 0,
-            "netBuy": 154901
+            "netBuy": 170700
           },
           {
             "broker": "한국투자증권",
-            "buy": 167625,
-            "sell": 124067,
-            "netBuy": 43558
+            "buy": 164520,
+            "sell": 123357,
+            "netBuy": 41163
           },
           {
             "broker": "NH투자증권",
-            "buy": 221559,
-            "sell": 197956,
-            "netBuy": 23603
+            "buy": 208704,
+            "sell": 190763,
+            "netBuy": 17941
           }
         ]
       },
@@ -1026,12 +972,12 @@
         "close": 415000,
         "marketCapKrw": 22000000000000,
         "floatShares": 53011179,
-        "totalBuy": 1119762,
-        "totalSell": 1297176,
-        "netBuy": -177414,
-        "a1": 86.32305870598901,
-        "a2": 0.07495022889417344,
-        "a3": 0.07495022889417344,
+        "totalBuy": 1372146,
+        "totalSell": 1545239,
+        "netBuy": -173093,
+        "a1": 88.79830239852863,
+        "a2": 0.09179007318437493,
+        "a3": 0.09179007318437493,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -1045,47 +991,41 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 207253,
-            "sell": 177978,
-            "netBuy": 29275
+            "buy": 250251,
+            "sell": 201592,
+            "netBuy": 48659
           },
           {
             "broker": "한국투자증권",
-            "buy": 253314,
-            "sell": 242857,
-            "netBuy": 10457
+            "buy": 265834,
+            "sell": 290843,
+            "netBuy": -25009
           },
           {
             "broker": "신한투자증권",
-            "buy": 187678,
-            "sell": 245027,
-            "netBuy": -57349
+            "buy": 248612,
+            "sell": 284236,
+            "netBuy": -35624
           },
           {
             "broker": "미래에셋증권",
-            "buy": 146189,
-            "sell": 204599,
-            "netBuy": -58410
+            "buy": 198854,
+            "sell": 255429,
+            "netBuy": -56575
           },
           {
             "broker": "키움증권",
-            "buy": 325328,
-            "sell": 426715,
-            "netBuy": -101387
+            "buy": 408595,
+            "sell": 513139,
+            "netBuy": -104544
           }
         ],
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 207253,
-            "sell": 177978,
-            "netBuy": 29275
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 253314,
-            "sell": 242857,
-            "netBuy": 10457
+            "buy": 250251,
+            "sell": 201592,
+            "netBuy": 48659
           }
         ]
       }
@@ -1100,16 +1040,16 @@
         "close": 83000,
         "marketCapKrw": 2200000000000,
         "floatShares": 26627668,
-        "totalBuy": 9142130,
-        "totalSell": 8919999,
-        "netBuy": 222131,
-        "a1": 102.49025812671056,
-        "a2": 3.1808868880293986,
-        "a3": 2.730603370899772,
-        "grades": "DBC",
+        "totalBuy": 9042017,
+        "totalSell": 8992533,
+        "netBuy": 49484,
+        "a1": 100.55027877017521,
+        "a2": 2.3701136727406995,
+        "a3": 2.3701136727406995,
+        "grades": "DCC",
         "gradeParts": [
           "D",
-          "B",
+          "C",
           "C"
         ],
         "band": {
@@ -1118,54 +1058,54 @@
         },
         "brokers": [
           {
-            "broker": "NH투자증권",
-            "buy": 1431677,
-            "sell": 1115644,
-            "netBuy": 316033
+            "broker": "한국투자증권",
+            "buy": 2535728,
+            "sell": 2304535,
+            "netBuy": 231193
           },
           {
-            "broker": "한국투자증권",
-            "buy": 2540844,
-            "sell": 2304378,
-            "netBuy": 236466
+            "broker": "NH투자증권",
+            "buy": 1377476,
+            "sell": 1165765,
+            "netBuy": 211711
           },
           {
             "broker": "미래에셋증권",
-            "buy": 1174306,
-            "sell": 999709,
-            "netBuy": 174597
+            "buy": 1139269,
+            "sell": 951067,
+            "netBuy": 188202
           },
           {
             "broker": "키움증권",
-            "buy": 2269310,
-            "sell": 2149410,
-            "netBuy": 119900
+            "buy": 2205226,
+            "sell": 2223965,
+            "netBuy": -18739
           },
           {
             "broker": "삼성증권",
-            "buy": 1725993,
-            "sell": 2350858,
-            "netBuy": -624865
+            "buy": 1784318,
+            "sell": 2347201,
+            "netBuy": -562883
           }
         ],
         "topBrokers": [
           {
-            "broker": "NH투자증권",
-            "buy": 1431677,
-            "sell": 1115644,
-            "netBuy": 316033
+            "broker": "한국투자증권",
+            "buy": 2535728,
+            "sell": 2304535,
+            "netBuy": 231193
           },
           {
-            "broker": "한국투자증권",
-            "buy": 2540844,
-            "sell": 2304378,
-            "netBuy": 236466
+            "broker": "NH투자증권",
+            "buy": 1377476,
+            "sell": 1165765,
+            "netBuy": 211711
           },
           {
             "broker": "미래에셋증권",
-            "buy": 1174306,
-            "sell": 999709,
-            "netBuy": 174597
+            "buy": 1139269,
+            "sell": 951067,
+            "netBuy": 188202
           }
         ]
       },
@@ -1178,17 +1118,17 @@
         "close": 204000,
         "marketCapKrw": 27000000000000,
         "floatShares": 134997805,
-        "totalBuy": 5413291,
-        "totalSell": 5609310,
-        "netBuy": -196019,
-        "a1": 96.50547036979593,
-        "a2": 1.5923444088590921,
-        "a3": 1.5923444088590921,
-        "grades": "DCC",
+        "totalBuy": 5163368,
+        "totalSell": 5256728,
+        "netBuy": -93360,
+        "a1": 98.22399028445071,
+        "a2": 1.1346703007504455,
+        "a3": 1.1346703007504455,
+        "grades": "DDD",
         "gradeParts": [
           "D",
-          "C",
-          "C"
+          "D",
+          "D"
         ],
         "band": {
           "label": "대형주/주도주",
@@ -1197,65 +1137,53 @@
         "brokers": [
           {
             "broker": "제이피모간",
-            "buy": 1189870,
+            "buy": 1180988,
             "sell": 0,
-            "netBuy": 1189870
-          },
-          {
-            "broker": "메리츠증권",
-            "buy": 592706,
-            "sell": 0,
-            "netBuy": 592706
+            "netBuy": 1180988
           },
           {
             "broker": "한국투자증권",
-            "buy": 1525175,
-            "sell": 1158121,
-            "netBuy": 367054
+            "buy": 1461717,
+            "sell": 1110925,
+            "netBuy": 350792
           },
           {
             "broker": "NH투자증권",
-            "buy": 1183652,
-            "sell": 1282505,
-            "netBuy": -98853
+            "buy": 1098770,
+            "sell": 1217995,
+            "netBuy": -119225
+          },
+          {
+            "broker": "삼성증권",
+            "buy": 615175,
+            "sell": 791864,
+            "netBuy": -176689
           },
           {
             "broker": "키움증권",
-            "buy": 921888,
-            "sell": 1472745,
-            "netBuy": -550857
+            "buy": 806718,
+            "sell": 1354925,
+            "netBuy": -548207
           },
           {
             "broker": "미래에셋증권",
             "buy": 0,
-            "sell": 802290,
-            "netBuy": -802290
-          },
-          {
-            "broker": "삼성증권",
-            "buy": 0,
-            "sell": 893649,
-            "netBuy": -893649
+            "sell": 781019,
+            "netBuy": -781019
           }
         ],
         "topBrokers": [
           {
             "broker": "제이피모간",
-            "buy": 1189870,
+            "buy": 1180988,
             "sell": 0,
-            "netBuy": 1189870
-          },
-          {
-            "broker": "메리츠증권",
-            "buy": 592706,
-            "sell": 0,
-            "netBuy": 592706
+            "netBuy": 1180988
           },
           {
             "broker": "한국투자증권",
-            "buy": 1525175,
-            "sell": 1158121,
-            "netBuy": 367054
+            "buy": 1461717,
+            "sell": 1110925,
+            "netBuy": 350792
           }
         ]
       },
@@ -1268,12 +1196,12 @@
         "close": 130000,
         "marketCapKrw": 13000000000000,
         "floatShares": 97801344,
-        "totalBuy": 3501032,
-        "totalSell": 3271638,
-        "netBuy": 229394,
-        "a1": 107.01159480358157,
-        "a2": 0.8783642073466802,
-        "a3": 0.8783642073466802,
+        "totalBuy": 3500714,
+        "totalSell": 3277702,
+        "netBuy": 223012,
+        "a1": 106.80391322945162,
+        "a2": 0.8938803540368525,
+        "a3": 0.8626006202941343,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -1287,33 +1215,33 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 628112,
+            "buy": 608814,
             "sell": 0,
-            "netBuy": 628112
+            "netBuy": 608814
           },
           {
             "broker": "키움증권",
-            "buy": 803151,
-            "sell": 616084,
-            "netBuy": 187067
+            "buy": 811987,
+            "sell": 635435,
+            "netBuy": 176552
           },
           {
             "broker": "한국투자증권",
-            "buy": 961169,
-            "sell": 917296,
-            "netBuy": 43873
+            "buy": 958831,
+            "sell": 900562,
+            "netBuy": 58269
           },
           {
             "broker": "신한투자증권",
-            "buy": 659075,
-            "sell": 661814,
-            "netBuy": -2739
+            "buy": 670884,
+            "sell": 640292,
+            "netBuy": 30592
           },
           {
             "broker": "메릴린치",
-            "buy": 449525,
-            "sell": 603915,
-            "netBuy": -154390
+            "buy": 450198,
+            "sell": 628884,
+            "netBuy": -178686
           },
           {
             "broker": "모간스탠리",
@@ -1325,21 +1253,21 @@
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 628112,
+            "buy": 608814,
             "sell": 0,
-            "netBuy": 628112
+            "netBuy": 608814
           },
           {
             "broker": "키움증권",
-            "buy": 803151,
-            "sell": 616084,
-            "netBuy": 187067
+            "buy": 811987,
+            "sell": 635435,
+            "netBuy": 176552
           },
           {
             "broker": "한국투자증권",
-            "buy": 961169,
-            "sell": 917296,
-            "netBuy": 43873
+            "buy": 958831,
+            "sell": 900562,
+            "netBuy": 58269
           }
         ]
       },
@@ -1352,12 +1280,12 @@
         "close": 250000,
         "marketCapKrw": 180000000000000,
         "floatShares": 728002365,
-        "totalBuy": 36010881,
-        "totalSell": 37178588,
-        "netBuy": -1167707,
-        "a1": 96.8591948677556,
-        "a2": 0.7123221364809714,
-        "a3": 0.7123221364809714,
+        "totalBuy": 33745831,
+        "totalSell": 36356416,
+        "netBuy": -2610585,
+        "a1": 92.81946548306632,
+        "a2": 0.6000426935426234,
+        "a3": 0.6000426935426234,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -1371,53 +1299,53 @@
         "brokers": [
           {
             "broker": "제이피모간",
-            "buy": 4784254,
+            "buy": 4322576,
             "sell": 0,
-            "netBuy": 4784254
+            "netBuy": 4322576
           },
           {
             "broker": "한국투자증권",
-            "buy": 4783550,
+            "buy": 4427831,
             "sell": 4382082,
-            "netBuy": 401468
+            "netBuy": 45749
           },
           {
             "broker": "KB증권",
-            "buy": 6587188,
-            "sell": 7092340,
-            "netBuy": -505152
-          },
-          {
-            "broker": "키움증권",
-            "buy": 8690177,
-            "sell": 9480037,
-            "netBuy": -789860
+            "buy": 6223090,
+            "sell": 6841311,
+            "netBuy": -618221
           },
           {
             "broker": "삼성증권",
-            "buy": 11165712,
-            "sell": 11996583,
-            "netBuy": -830871
+            "buy": 10706109,
+            "sell": 11543458,
+            "netBuy": -837349
           },
           {
-            "broker": "골드만삭스",
+            "broker": "키움증권",
+            "buy": 8066225,
+            "sell": 9428980,
+            "netBuy": -1362755
+          },
+          {
+            "broker": "미래에셋증권",
             "buy": 0,
-            "sell": 4227546,
-            "netBuy": -4227546
+            "sell": 4160585,
+            "netBuy": -4160585
           }
         ],
         "topBrokers": [
           {
             "broker": "제이피모간",
-            "buy": 4784254,
+            "buy": 4322576,
             "sell": 0,
-            "netBuy": 4784254
+            "netBuy": 4322576
           },
           {
             "broker": "한국투자증권",
-            "buy": 4783550,
+            "buy": 4427831,
             "sell": 4382082,
-            "netBuy": 401468
+            "netBuy": 45749
           }
         ]
       },
@@ -1430,12 +1358,12 @@
         "close": 80000,
         "marketCapKrw": 480000000000000,
         "floatShares": 5969782550,
-        "totalBuy": 206296320,
-        "totalSell": 218230446,
-        "netBuy": -11934126,
-        "a1": 94.53141107542804,
-        "a2": 0.5096942266347708,
-        "a3": 0.5096942266347708,
+        "totalBuy": 199170044,
+        "totalSell": 214039875,
+        "netBuy": -14869831,
+        "a1": 93.05277532983048,
+        "a2": 0.48026174755728746,
+        "a3": 0.48026174755728746,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -1448,54 +1376,54 @@
         },
         "brokers": [
           {
-            "broker": "키움증권",
-            "buy": 27841251,
+            "broker": "골드만삭스",
+            "buy": 27467345,
             "sell": 0,
-            "netBuy": 27841251
+            "netBuy": 27467345
           },
           {
             "broker": "KB증권",
-            "buy": 56886280,
-            "sell": 54299894,
-            "netBuy": 2586386
-          },
-          {
-            "broker": "미래에셋증권",
-            "buy": 45495677,
-            "sell": 46842010,
-            "netBuy": -1346333
+            "buy": 54898536,
+            "sell": 53695299,
+            "netBuy": 1203237
           },
           {
             "broker": "삼성증권",
-            "buy": 31084997,
-            "sell": 34910663,
-            "netBuy": -3825666
+            "buy": 31424501,
+            "sell": 33123815,
+            "netBuy": -1699314
+          },
+          {
+            "broker": "미래에셋증권",
+            "buy": 43250447,
+            "sell": 48301121,
+            "netBuy": -5050674
           },
           {
             "broker": "한국투자증권",
-            "buy": 44988115,
-            "sell": 49451293,
-            "netBuy": -4463178
+            "buy": 42129215,
+            "sell": 47494322,
+            "netBuy": -5365107
           },
           {
-            "broker": "골드만삭스",
+            "broker": "키움증권",
             "buy": 0,
-            "sell": 32726586,
-            "netBuy": -32726586
+            "sell": 31425318,
+            "netBuy": -31425318
           }
         ],
         "topBrokers": [
           {
-            "broker": "키움증권",
-            "buy": 27841251,
+            "broker": "골드만삭스",
+            "buy": 27467345,
             "sell": 0,
-            "netBuy": 27841251
+            "netBuy": 27467345
           },
           {
             "broker": "KB증권",
-            "buy": 56886280,
-            "sell": 54299894,
-            "netBuy": 2586386
+            "buy": 54898536,
+            "sell": 53695299,
+            "netBuy": 1203237
           }
         ]
       },
@@ -1508,12 +1436,12 @@
         "close": 415000,
         "marketCapKrw": 22000000000000,
         "floatShares": 53011179,
-        "totalBuy": 4204239,
-        "totalSell": 4517344,
-        "netBuy": -313105,
-        "a1": 93.06882539828713,
-        "a2": 0.03054450081180047,
-        "a3": 0.03054450081180047,
+        "totalBuy": 4469979,
+        "totalSell": 4848758,
+        "netBuy": -378779,
+        "a1": 92.18812322660771,
+        "a2": 0.04069518997115684,
+        "a3": 0.04069518997115684,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -1527,41 +1455,41 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 635808,
-            "sell": 619616,
-            "netBuy": 16192
+            "buy": 696457,
+            "sell": 674884,
+            "netBuy": 21573
           },
           {
             "broker": "미래에셋증권",
-            "buy": 728313,
-            "sell": 731477,
-            "netBuy": -3164
-          },
-          {
-            "broker": "키움증권",
-            "buy": 1174827,
-            "sell": 1244562,
-            "netBuy": -69735
-          },
-          {
-            "broker": "한국투자증권",
-            "buy": 871926,
-            "sell": 976754,
-            "netBuy": -104828
+            "buy": 746894,
+            "sell": 808947,
+            "netBuy": -62053
           },
           {
             "broker": "신한투자증권",
-            "buy": 793365,
-            "sell": 944935,
-            "netBuy": -151570
+            "buy": 863618,
+            "sell": 966385,
+            "netBuy": -102767
+          },
+          {
+            "broker": "키움증권",
+            "buy": 1256458,
+            "sell": 1368370,
+            "netBuy": -111912
+          },
+          {
+            "broker": "한국투자증권",
+            "buy": 906552,
+            "sell": 1030172,
+            "netBuy": -123620
           }
         ],
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 635808,
-            "sell": 619616,
-            "netBuy": 16192
+            "buy": 696457,
+            "sell": 674884,
+            "netBuy": 21573
           }
         ]
       }
@@ -1576,12 +1504,12 @@
         "close": 83000,
         "marketCapKrw": 2200000000000,
         "floatShares": 26627668,
-        "totalBuy": 31586268,
-        "totalSell": 30994471,
-        "netBuy": 591797,
-        "a1": 101.90936312479732,
-        "a2": 25.361774076498172,
-        "a3": 24.205367890271127,
+        "totalBuy": 31265993,
+        "totalSell": 30524883,
+        "netBuy": 741110,
+        "a1": 102.42788809378894,
+        "a2": 24.738674073899375,
+        "a3": 23.488628444668905,
         "grades": "DAA",
         "gradeParts": [
           "D",
@@ -1595,59 +1523,59 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 4785526,
+            "buy": 4702718,
             "sell": 0,
-            "netBuy": 4785526
-          },
-          {
-            "broker": "키움증권",
-            "buy": 8521544,
-            "sell": 7681296,
-            "netBuy": 840248
+            "netBuy": 4702718
           },
           {
             "broker": "한국투자증권",
-            "buy": 8611489,
-            "sell": 7791938,
-            "netBuy": 819551
+            "buy": 8525100,
+            "sell": 7726211,
+            "netBuy": 798889
+          },
+          {
+            "broker": "키움증권",
+            "buy": 8385661,
+            "sell": 7632794,
+            "netBuy": 752867
           },
           {
             "broker": "미래에셋증권",
-            "buy": 4950896,
-            "sell": 4642972,
-            "netBuy": 307924
+            "buy": 4877376,
+            "sell": 4544518,
+            "netBuy": 332858
           },
           {
             "broker": "삼성증권",
-            "buy": 4716813,
-            "sell": 6094595,
-            "netBuy": -1377782
+            "buy": 4775138,
+            "sell": 5939084,
+            "netBuy": -1163946
           },
           {
             "broker": "신한투자증권",
             "buy": 0,
-            "sell": 4783670,
-            "netBuy": -4783670
+            "sell": 4682276,
+            "netBuy": -4682276
           }
         ],
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 4785526,
+            "buy": 4702718,
             "sell": 0,
-            "netBuy": 4785526
-          },
-          {
-            "broker": "키움증권",
-            "buy": 8521544,
-            "sell": 7681296,
-            "netBuy": 840248
+            "netBuy": 4702718
           },
           {
             "broker": "한국투자증권",
-            "buy": 8611489,
-            "sell": 7791938,
-            "netBuy": 819551
+            "buy": 8525100,
+            "sell": 7726211,
+            "netBuy": 798889
+          },
+          {
+            "broker": "키움증권",
+            "buy": 8385661,
+            "sell": 7632794,
+            "netBuy": 752867
           }
         ]
       },
@@ -1660,12 +1588,12 @@
         "close": 204000,
         "marketCapKrw": 27000000000000,
         "floatShares": 134997805,
-        "totalBuy": 14957940,
-        "totalSell": 14532962,
-        "netBuy": 424978,
-        "a1": 102.92423526601115,
-        "a2": 4.925808978894138,
-        "a3": 4.716494464484071,
+        "totalBuy": 14598786,
+        "totalSell": 14360476,
+        "netBuy": 238310,
+        "a1": 101.65948538196088,
+        "a2": 4.736579976244799,
+        "a3": 4.522803907811687,
         "grades": "DBB",
         "gradeParts": [
           "D",
@@ -1679,65 +1607,65 @@
         "brokers": [
           {
             "broker": "제이피모간",
-            "buy": 3198750,
+            "buy": 2988444,
             "sell": 0,
-            "netBuy": 3198750
+            "netBuy": 2988444
           },
           {
             "broker": "대신증권",
-            "buy": 2329408,
+            "buy": 2265898,
             "sell": 0,
-            "netBuy": 2329408
+            "netBuy": 2265898
           },
           {
             "broker": "NH투자증권",
-            "buy": 4104665,
-            "sell": 3265659,
-            "netBuy": 839006
+            "buy": 4094323,
+            "sell": 3242979,
+            "netBuy": 851344
           },
           {
             "broker": "한국투자증권",
-            "buy": 2757919,
-            "sell": 2475349,
-            "netBuy": 282570
+            "buy": 2752205,
+            "sell": 2463612,
+            "netBuy": 288593
           },
           {
             "broker": "키움증권",
-            "buy": 2567198,
-            "sell": 3794513,
-            "netBuy": -1227315
+            "buy": 2497916,
+            "sell": 3789096,
+            "netBuy": -1291180
           },
           {
             "broker": "미래에셋증권",
             "buy": 0,
-            "sell": 2185938,
-            "netBuy": -2185938
+            "sell": 2163720,
+            "netBuy": -2163720
           },
           {
             "broker": "신한투자증권",
             "buy": 0,
-            "sell": 2811503,
-            "netBuy": -2811503
+            "sell": 2701069,
+            "netBuy": -2701069
           }
         ],
         "topBrokers": [
           {
             "broker": "제이피모간",
-            "buy": 3198750,
+            "buy": 2988444,
             "sell": 0,
-            "netBuy": 3198750
+            "netBuy": 2988444
           },
           {
             "broker": "대신증권",
-            "buy": 2329408,
+            "buy": 2265898,
             "sell": 0,
-            "netBuy": 2329408
+            "netBuy": 2265898
           },
           {
             "broker": "NH투자증권",
-            "buy": 4104665,
-            "sell": 3265659,
-            "netBuy": 839006
+            "buy": 4094323,
+            "sell": 3242979,
+            "netBuy": 851344
           }
         ]
       },
@@ -1750,12 +1678,12 @@
         "close": 250000,
         "marketCapKrw": 180000000000000,
         "floatShares": 728002365,
-        "totalBuy": 122540859,
-        "totalSell": 117145843,
-        "netBuy": 5395016,
-        "a1": 104.60538407666758,
-        "a2": 3.210784899029827,
-        "a3": 3.06554951919696,
+        "totalBuy": 121132288,
+        "totalSell": 115817746,
+        "netBuy": 5314542,
+        "a1": 104.5887113016342,
+        "a2": 3.1267431390830716,
+        "a3": 3.0172340168153164,
         "grades": "DBB",
         "gradeParts": [
           "D",
@@ -1769,59 +1697,59 @@
         "brokers": [
           {
             "broker": "한국투자증권",
-            "buy": 16409540,
+            "buy": 16373910,
             "sell": 0,
-            "netBuy": 16409540
+            "netBuy": 16373910
           },
           {
             "broker": "미래에셋증권",
-            "buy": 18605164,
-            "sell": 14117865,
-            "netBuy": 4487299
+            "buy": 18235383,
+            "sell": 13964483,
+            "netBuy": 4270900
           },
           {
             "broker": "삼성증권",
-            "buy": 35309176,
-            "sell": 33888742,
-            "netBuy": 1420434
+            "buy": 34801021,
+            "sell": 33480296,
+            "netBuy": 1320725
           },
           {
             "broker": "키움증권",
-            "buy": 29109040,
-            "sell": 28051723,
-            "netBuy": 1057317
+            "buy": 28868991,
+            "sell": 28071762,
+            "netBuy": 797229
           },
           {
             "broker": "KB증권",
-            "buy": 23107939,
-            "sell": 23839314,
-            "netBuy": -731375
+            "buy": 22852983,
+            "sell": 23498359,
+            "netBuy": -645376
           },
           {
             "broker": "제이피모간",
             "buy": 0,
-            "sell": 17248199,
-            "netBuy": -17248199
+            "sell": 16802846,
+            "netBuy": -16802846
           }
         ],
         "topBrokers": [
           {
             "broker": "한국투자증권",
-            "buy": 16409540,
+            "buy": 16373910,
             "sell": 0,
-            "netBuy": 16409540
+            "netBuy": 16373910
           },
           {
             "broker": "미래에셋증권",
-            "buy": 18605164,
-            "sell": 14117865,
-            "netBuy": 4487299
+            "buy": 18235383,
+            "sell": 13964483,
+            "netBuy": 4270900
           },
           {
             "broker": "삼성증권",
-            "buy": 35309176,
-            "sell": 33888742,
-            "netBuy": 1420434
+            "buy": 34801021,
+            "sell": 33480296,
+            "netBuy": 1320725
           }
         ]
       },
@@ -1834,16 +1762,16 @@
         "close": 130000,
         "marketCapKrw": 13000000000000,
         "floatShares": 97801344,
-        "totalBuy": 13114573,
-        "totalSell": 12210648,
-        "netBuy": 903925,
-        "a1": 107.40276027938893,
-        "a2": 2.9340772658502523,
-        "a3": 2.9006380525813635,
-        "grades": "DCC",
+        "totalBuy": 13056588,
+        "totalSell": 12019148,
+        "netBuy": 1037440,
+        "a1": 108.63156024037643,
+        "a2": 3.0271557413362333,
+        "a3": 2.935537368484425,
+        "grades": "DBC",
         "gradeParts": [
           "D",
-          "C",
+          "B",
           "C"
         ],
         "band": {
@@ -1853,59 +1781,59 @@
         "brokers": [
           {
             "broker": "NH투자증권",
-            "buy": 2327189,
+            "buy": 2320578,
             "sell": 0,
-            "netBuy": 2327189
+            "netBuy": 2320578
           },
           {
             "broker": "한국투자증권",
-            "buy": 3364386,
-            "sell": 3089282,
-            "netBuy": 275104
+            "buy": 3359327,
+            "sell": 3054917,
+            "netBuy": 304410
           },
           {
             "broker": "키움증권",
-            "buy": 2760524,
-            "sell": 2525954,
-            "netBuy": 234570
+            "buy": 2748551,
+            "sell": 2502544,
+            "netBuy": 246007
           },
           {
             "broker": "신한투자증권",
-            "buy": 2816772,
-            "sell": 2784068,
-            "netBuy": 32704
+            "buy": 2789316,
+            "sell": 2699712,
+            "netBuy": 89604
           },
           {
             "broker": "KB증권",
-            "buy": 1845702,
-            "sell": 1854503,
-            "netBuy": -8801
+            "buy": 1838816,
+            "sell": 1845372,
+            "netBuy": -6556
           },
           {
             "broker": "메릴린치",
             "buy": 0,
-            "sell": 1956841,
-            "netBuy": -1956841
+            "sell": 1916603,
+            "netBuy": -1916603
           }
         ],
         "topBrokers": [
           {
             "broker": "NH투자증권",
-            "buy": 2327189,
+            "buy": 2320578,
             "sell": 0,
-            "netBuy": 2327189
+            "netBuy": 2320578
           },
           {
             "broker": "한국투자증권",
-            "buy": 3364386,
-            "sell": 3089282,
-            "netBuy": 275104
+            "buy": 3359327,
+            "sell": 3054917,
+            "netBuy": 304410
           },
           {
             "broker": "키움증권",
-            "buy": 2760524,
-            "sell": 2525954,
-            "netBuy": 234570
+            "buy": 2748551,
+            "sell": 2502544,
+            "netBuy": 246007
           }
         ]
       },
@@ -1918,12 +1846,12 @@
         "close": 80000,
         "marketCapKrw": 480000000000000,
         "floatShares": 5969782550,
-        "totalBuy": 585949456,
-        "totalSell": 570400288,
-        "netBuy": 15549168,
-        "a1": 102.7260098438099,
-        "a2": 1.9912963831488302,
-        "a3": 1.8336552141250104,
+        "totalBuy": 582753415,
+        "totalSell": 564359908,
+        "netBuy": 18393507,
+        "a1": 103.25918031016477,
+        "a2": 2.0387358665182873,
+        "a3": 1.8874286467938435,
         "grades": "DCC",
         "gradeParts": [
           "D",
@@ -1937,59 +1865,59 @@
         "brokers": [
           {
             "broker": "삼성증권",
-            "buy": 88653815,
+            "buy": 89427736,
             "sell": 0,
-            "netBuy": 88653815
+            "netBuy": 89427736
           },
           {
             "broker": "미래에셋증권",
-            "buy": 154048974,
-            "sell": 142703034,
-            "netBuy": 11345940
-          },
-          {
-            "broker": "키움증권",
-            "buy": 108252488,
-            "sell": 98787014,
-            "netBuy": 9465474
+            "buy": 154831953,
+            "sell": 142219296,
+            "netBuy": 12612657
           },
           {
             "broker": "KB증권",
-            "buy": 148954260,
-            "sell": 139543425,
-            "netBuy": 9410835
+            "buy": 147716070,
+            "sell": 137081077,
+            "netBuy": 10634993
+          },
+          {
+            "broker": "키움증권",
+            "buy": 106564986,
+            "sell": 97532274,
+            "netBuy": 9032712
           },
           {
             "broker": "한국투자증권",
-            "buy": 86039919,
-            "sell": 89200623,
-            "netBuy": -3160704
+            "buy": 84212670,
+            "sell": 87934571,
+            "netBuy": -3721901
           },
           {
             "broker": "제이피모간",
             "buy": 0,
-            "sell": 100166192,
-            "netBuy": -100166192
+            "sell": 99592690,
+            "netBuy": -99592690
           }
         ],
         "topBrokers": [
           {
             "broker": "삼성증권",
-            "buy": 88653815,
+            "buy": 89427736,
             "sell": 0,
-            "netBuy": 88653815
+            "netBuy": 89427736
           },
           {
             "broker": "미래에셋증권",
-            "buy": 154048974,
-            "sell": 142703034,
-            "netBuy": 11345940
+            "buy": 154831953,
+            "sell": 142219296,
+            "netBuy": 12612657
           },
           {
-            "broker": "키움증권",
-            "buy": 108252488,
-            "sell": 98787014,
-            "netBuy": 9465474
+            "broker": "KB증권",
+            "buy": 147716070,
+            "sell": 137081077,
+            "netBuy": 10634993
           }
         ]
       },
@@ -2002,12 +1930,12 @@
         "close": 415000,
         "marketCapKrw": 22000000000000,
         "floatShares": 53011179,
-        "totalBuy": 12706115,
-        "totalSell": 13012685,
-        "netBuy": -306570,
-        "a1": 97.64406807664983,
-        "a2": 0.5576616207687062,
-        "a3": 0.5576616207687062,
+        "totalBuy": 12953918,
+        "totalSell": 13266550,
+        "netBuy": -312632,
+        "a1": 97.64345666356363,
+        "a2": 0.5056707001366636,
+        "a3": 0.5056707001366636,
         "grades": "DDD",
         "gradeParts": [
           "D",
@@ -2021,41 +1949,41 @@
         "brokers": [
           {
             "broker": "미래에셋증권",
-            "buy": 2286272,
-            "sell": 1990649,
-            "netBuy": 295623
+            "buy": 2320551,
+            "sell": 2052489,
+            "netBuy": 268062
           },
           {
             "broker": "한국투자증권",
-            "buy": 2556051,
-            "sell": 2571288,
-            "netBuy": -15237
-          },
-          {
-            "broker": "키움증권",
-            "buy": 3152901,
-            "sell": 3268772,
-            "netBuy": -115871
+            "buy": 2585762,
+            "sell": 2589292,
+            "netBuy": -3530
           },
           {
             "broker": "신한투자증권",
-            "buy": 2829731,
-            "sell": 3005410,
-            "netBuy": -175679
+            "buy": 2897558,
+            "sell": 3037441,
+            "netBuy": -139883
+          },
+          {
+            "broker": "키움증권",
+            "buy": 3225077,
+            "sell": 3376354,
+            "netBuy": -151277
           },
           {
             "broker": "NH투자증권",
-            "buy": 1881160,
-            "sell": 2176566,
-            "netBuy": -295406
+            "buy": 1924970,
+            "sell": 2210974,
+            "netBuy": -286004
           }
         ],
         "topBrokers": [
           {
             "broker": "미래에셋증권",
-            "buy": 2286272,
-            "sell": 1990649,
-            "netBuy": 295623
+            "buy": 2320551,
+            "sell": 2052489,
+            "netBuy": 268062
           }
         ]
       }
@@ -2063,15 +1991,31 @@
   },
   "rows": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "KB증권",
+      "buy": 1723554,
+      "sell": 1981581,
+      "net_buy": -258027,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 2752707,
-      "net_buy": -2752707,
+      "buy": 4563550,
+      "sell": 0,
+      "net_buy": 4563550,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2079,15 +2023,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "미래에셋증권",
+      "buy": 1084120,
+      "sell": 1735424,
+      "net_buy": -651304,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 3408121,
-      "sell": 0,
-      "net_buy": 3408121,
+      "buy": 2937949,
+      "sell": 1352232,
+      "net_buy": 1585717,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2095,31 +2055,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
-      "broker": "KB증권",
-      "buy": 2936961,
-      "sell": 2152198,
-      "net_buy": 784763,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "모간스탠리",
+      "broker": "키움증권",
       "buy": 0,
-      "sell": 1963530,
-      "net_buy": -1963530,
+      "sell": 1485414,
+      "net_buy": -1485414,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2127,47 +2071,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 1813015,
-      "sell": 1574854,
-      "net_buy": 238161,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "제이피모간",
-      "buy": 1798348,
-      "sell": 0,
-      "net_buy": 1798348,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "메릴린치",
+      "broker": "NH투자증권",
       "buy": 0,
-      "sell": 1432213,
-      "net_buy": -1432213,
+      "sell": 1398856,
+      "net_buy": -1398856,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2175,15 +2087,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
-      "broker": "LS증권",
-      "buy": 1076177,
+      "broker": "한화투자증권",
+      "buy": 901313,
       "sell": 0,
-      "net_buy": 1076177,
+      "net_buy": 901313,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2191,31 +2103,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 7325377,
-      "sell": 12720377,
-      "net_buy": -5395000,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 14038435,
-      "sell": 12664657,
-      "net_buy": 1373778,
+      "buy": 13489326,
+      "sell": 12754477,
+      "net_buy": 734849,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2223,15 +2119,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 13218542,
-      "sell": 6086007,
-      "net_buy": 7132535,
+      "buy": 15558114,
+      "sell": 6963751,
+      "net_buy": 8594363,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2239,15 +2135,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "한국투자증권",
+      "buy": 7184868,
+      "sell": 11287100,
+      "net_buy": -4102232,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "미래에셋증권",
-      "buy": 10788453,
-      "sell": 8176617,
-      "net_buy": 2611836,
+      "buy": 9319754,
+      "sell": 8668346,
+      "net_buy": 651408,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2255,31 +2167,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "키움증권",
+      "buy": 0,
+      "sell": 5725204,
+      "net_buy": -5725204,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 7595293,
-      "net_buy": -7595293,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "맥쿼리",
-      "buy": 6311570,
+      "buy": 4991207,
       "sell": 0,
-      "net_buy": 6311570,
+      "net_buy": 4991207,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2287,15 +2199,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 56886280,
-      "sell": 54299894,
-      "net_buy": 2586386,
+      "buy": 54898536,
+      "sell": 53695299,
+      "net_buy": 1203237,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2303,31 +2215,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "20",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 44988115,
-      "sell": 49451293,
-      "net_buy": -4463178,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "미래에셋증권",
-      "buy": 45495677,
-      "sell": 46842010,
-      "net_buy": -1346333,
+      "buy": 43250447,
+      "sell": 48301121,
+      "net_buy": -5050674,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2335,15 +2231,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "20",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "한국투자증권",
+      "buy": 42129215,
+      "sell": 47494322,
+      "net_buy": -5365107,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 31084997,
-      "sell": 34910663,
-      "net_buy": -3825666,
+      "buy": 31424501,
+      "sell": 33123815,
+      "net_buy": -1699314,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2351,31 +2263,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "20",
-      "ticker": "005930",
-      "name": "삼성전자",
-      "market": "KOSPI",
-      "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 32726586,
-      "net_buy": -32726586,
-      "float_shares": "5969782550",
-      "listed_shares": "5969782550",
-      "market_cap_krw": "480000000000000",
-      "close": "80000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 27841251,
-      "sell": 0,
-      "net_buy": 27841251,
+      "buy": 0,
+      "sell": 31425318,
+      "net_buy": -31425318,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2383,15 +2279,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "20",
+      "ticker": "005930",
+      "name": "삼성전자",
+      "market": "KOSPI",
+      "broker": "골드만삭스",
+      "buy": 27467345,
+      "sell": 0,
+      "net_buy": 27467345,
+      "float_shares": "5969782550",
+      "listed_shares": "5969782550",
+      "market_cap_krw": "480000000000000",
+      "close": "80000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "미래에셋증권",
-      "buy": 154048974,
-      "sell": 142703034,
-      "net_buy": 11345940,
+      "buy": 154831953,
+      "sell": 142219296,
+      "net_buy": 12612657,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2399,15 +2311,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 148954260,
-      "sell": 139543425,
-      "net_buy": 9410835,
+      "buy": 147716070,
+      "sell": 137081077,
+      "net_buy": 10634993,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2415,15 +2327,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "제이피모간",
       "buy": 0,
-      "sell": 100166192,
-      "net_buy": -100166192,
+      "sell": 99592690,
+      "net_buy": -99592690,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2431,15 +2343,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 108252488,
-      "sell": 98787014,
-      "net_buy": 9465474,
+      "buy": 106564986,
+      "sell": 97532274,
+      "net_buy": 9032712,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2447,15 +2359,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 88653815,
+      "buy": 89427736,
       "sell": 0,
-      "net_buy": 88653815,
+      "net_buy": 89427736,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2463,15 +2375,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "005930",
       "name": "삼성전자",
       "market": "KOSPI",
       "broker": "한국투자증권",
-      "buy": 86039919,
-      "sell": 89200623,
-      "net_buy": -3160704,
+      "buy": 84212670,
+      "sell": 87934571,
+      "net_buy": -3721901,
       "float_shares": "5969782550",
       "listed_shares": "5969782550",
       "market_cap_krw": "480000000000000",
@@ -2479,15 +2391,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
-      "broker": "메릴린치",
+      "broker": "키움증권",
       "buy": 0,
-      "sell": 42340,
-      "net_buy": -42340,
+      "sell": 41281,
+      "net_buy": -41281,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2495,15 +2407,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "대신증권",
-      "buy": 45395,
+      "buy": 33628,
       "sell": 0,
-      "net_buy": 45395,
+      "net_buy": 33628,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2511,15 +2423,63 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "068270",
+      "name": "셀트리온",
+      "market": "KOSPI",
+      "broker": "NH투자증권",
+      "buy": 32831,
+      "sell": 34194,
+      "net_buy": -1363,
+      "float_shares": "134997805",
+      "listed_shares": "134997805",
+      "market_cap_krw": "27000000000000",
+      "close": "204000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "068270",
+      "name": "셀트리온",
+      "market": "KOSPI",
+      "broker": "삼성증권",
+      "buy": 28050,
+      "sell": 27900,
+      "net_buy": 150,
+      "float_shares": "134997805",
+      "listed_shares": "134997805",
+      "market_cap_krw": "27000000000000",
+      "close": "204000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "068270",
+      "name": "셀트리온",
+      "market": "KOSPI",
+      "broker": "한국투자증권",
+      "buy": 28577,
+      "sell": 27743,
+      "net_buy": 834,
+      "float_shares": "134997805",
+      "listed_shares": "134997805",
+      "market_cap_krw": "27000000000000",
+      "close": "204000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "미래에셋증권",
       "buy": 0,
-      "sell": 34819,
-      "net_buy": -34819,
+      "sell": 26352,
+      "net_buy": -26352,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2527,47 +2487,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
-      "broker": "NH투자증권",
-      "buy": 38658,
-      "sell": 29355,
-      "net_buy": 9303,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "제이피모간",
-      "buy": 0,
-      "sell": 33475,
-      "net_buy": -33475,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 34601,
+      "broker": "iM증권",
+      "buy": 24680,
       "sell": 0,
-      "net_buy": 34601,
+      "net_buy": 24680,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2575,63 +2503,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "신한투자증권",
-      "buy": 0,
-      "sell": 30478,
-      "net_buy": -30478,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "키움증권",
-      "buy": 30721,
-      "sell": 0,
-      "net_buy": 30721,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "삼성증권",
-      "buy": 29573,
-      "sell": 0,
-      "net_buy": 29573,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "NH투자증권",
-      "buy": 221559,
-      "sell": 197956,
-      "net_buy": 23603,
+      "buy": 208704,
+      "sell": 190763,
+      "net_buy": 17941,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2639,15 +2519,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 141544,
-      "sell": 159977,
-      "net_buy": -18433,
+      "buy": 106706,
+      "sell": 166706,
+      "net_buy": -60000,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2655,31 +2535,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 167625,
-      "sell": 124067,
-      "net_buy": 43558,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 154901,
+      "buy": 170700,
       "sell": 0,
-      "net_buy": 154901,
+      "net_buy": 170700,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2687,15 +2551,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
-      "broker": "KB증권",
-      "buy": 80281,
-      "sell": 113052,
-      "net_buy": -32771,
+      "broker": "한국투자증권",
+      "buy": 164520,
+      "sell": 123357,
+      "net_buy": 41163,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2703,15 +2567,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "대신증권",
-      "buy": 0,
+      "buy": 110551,
       "sell": 102250,
-      "net_buy": -102250,
+      "net_buy": 8301,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2719,15 +2583,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "068270",
+      "name": "셀트리온",
+      "market": "KOSPI",
+      "broker": "미래에셋증권",
+      "buy": 0,
+      "sell": 95049,
+      "net_buy": -95049,
+      "float_shares": "134997805",
+      "listed_shares": "134997805",
+      "market_cap_krw": "27000000000000",
+      "close": "204000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 921888,
-      "sell": 1472745,
-      "net_buy": -550857,
+      "buy": 806718,
+      "sell": 1354925,
+      "net_buy": -548207,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2735,15 +2615,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "한국투자증권",
-      "buy": 1525175,
-      "sell": 1158121,
-      "net_buy": 367054,
+      "buy": 1461717,
+      "sell": 1110925,
+      "net_buy": 350792,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2751,15 +2631,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "NH투자증권",
-      "buy": 1183652,
-      "sell": 1282505,
-      "net_buy": -98853,
+      "buy": 1098770,
+      "sell": 1217995,
+      "net_buy": -119225,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2767,15 +2647,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "제이피모간",
-      "buy": 1189870,
+      "buy": 1180988,
       "sell": 0,
-      "net_buy": 1189870,
+      "net_buy": 1180988,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2783,15 +2663,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 0,
-      "sell": 893649,
-      "net_buy": -893649,
+      "buy": 615175,
+      "sell": 791864,
+      "net_buy": -176689,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2799,15 +2679,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "미래에셋증권",
       "buy": 0,
-      "sell": 802290,
-      "net_buy": -802290,
+      "sell": 781019,
+      "net_buy": -781019,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2815,31 +2695,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "20",
-      "ticker": "068270",
-      "name": "셀트리온",
-      "market": "KOSPI",
-      "broker": "메리츠증권",
-      "buy": 592706,
-      "sell": 0,
-      "net_buy": 592706,
-      "float_shares": "134997805",
-      "listed_shares": "134997805",
-      "market_cap_krw": "27000000000000",
-      "close": "204000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 2567198,
-      "sell": 3794513,
-      "net_buy": -1227315,
+      "buy": 2497916,
+      "sell": 3789096,
+      "net_buy": -1291180,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2847,15 +2711,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "NH투자증권",
-      "buy": 4104665,
-      "sell": 3265659,
-      "net_buy": 839006,
+      "buy": 4094323,
+      "sell": 3242979,
+      "net_buy": 851344,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2863,15 +2727,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "제이피모간",
-      "buy": 3198750,
+      "buy": 2988444,
       "sell": 0,
-      "net_buy": 3198750,
+      "net_buy": 2988444,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2879,15 +2743,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "신한투자증권",
       "buy": 0,
-      "sell": 2811503,
-      "net_buy": -2811503,
+      "sell": 2701069,
+      "net_buy": -2701069,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2895,15 +2759,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "한국투자증권",
-      "buy": 2757919,
-      "sell": 2475349,
-      "net_buy": 282570,
+      "buy": 2752205,
+      "sell": 2463612,
+      "net_buy": 288593,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2911,15 +2775,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "미래에셋증권",
       "buy": 0,
-      "sell": 2185938,
-      "net_buy": -2185938,
+      "sell": 2163720,
+      "net_buy": -2163720,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2927,15 +2791,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "068270",
       "name": "셀트리온",
       "market": "KOSPI",
       "broker": "대신증권",
-      "buy": 2329408,
+      "buy": 2265898,
       "sell": 0,
-      "net_buy": 2329408,
+      "net_buy": 2265898,
       "float_shares": "134997805",
       "listed_shares": "134997805",
       "market_cap_krw": "27000000000000",
@@ -2943,15 +2807,95 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "키움증권",
+      "buy": 253994,
+      "sell": 328761,
+      "net_buy": -74767,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "SK증권",
+      "buy": 692638,
+      "sell": 0,
+      "net_buy": 692638,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "삼성증권",
+      "buy": 255037,
+      "sell": 285299,
+      "net_buy": -30262,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "제이피모간",
+      "buy": 0,
+      "sell": 204523,
+      "net_buy": -204523,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "KB증권",
+      "buy": 205780,
+      "sell": 195166,
+      "net_buy": 10614,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "모간스탠리",
       "buy": 0,
-      "sell": 442926,
-      "net_buy": -442926,
+      "sell": 184018,
+      "net_buy": -184018,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -2959,111 +2903,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "SK증권",
-      "buy": 726224,
-      "sell": 0,
-      "net_buy": 726224,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "KB증권",
-      "buy": 313589,
-      "sell": 311954,
-      "net_buy": 1635,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "키움증권",
-      "buy": 389716,
-      "sell": 305241,
-      "net_buy": 84475,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "삼성증권",
-      "buy": 388757,
-      "sell": 0,
-      "net_buy": 388757,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "한국투자증권",
-      "buy": 0,
-      "sell": 295227,
-      "net_buy": -295227,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 289242,
-      "net_buy": -289242,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "유진투자증권",
-      "buy": 232158,
+      "buy": 172053,
       "sell": 0,
-      "net_buy": 232158,
+      "net_buy": 172053,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3071,15 +2919,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 1926140,
-      "sell": 2118649,
-      "net_buy": -192509,
+      "buy": 1845610,
+      "sell": 2010341,
+      "net_buy": -164731,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3087,15 +2935,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "SK증권",
-      "buy": 2946427,
+      "buy": 3639065,
       "sell": 0,
-      "net_buy": 2946427,
+      "net_buy": 3639065,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3103,15 +2951,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 1832744,
-      "sell": 1894156,
-      "net_buy": -61412,
+      "buy": 1665634,
+      "sell": 1931731,
+      "net_buy": -266097,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3119,15 +2967,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 1530257,
-      "sell": 1484738,
-      "net_buy": 45519,
+      "buy": 1313293,
+      "sell": 1359423,
+      "net_buy": -46130,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3135,31 +2983,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 1182021,
-      "net_buy": -1182021,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "모간스탠리",
       "buy": 0,
-      "sell": 966894,
-      "net_buy": -966894,
+      "sell": 806516,
+      "net_buy": -806516,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3167,15 +2999,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "미래에셋증권",
+      "buy": 0,
+      "sell": 757125,
+      "net_buy": -757125,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "유진투자증권",
-      "buy": 834554,
+      "buy": 1006607,
       "sell": 0,
-      "net_buy": 834554,
+      "net_buy": 1006607,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3183,15 +3031,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 11165712,
-      "sell": 11996583,
-      "net_buy": -830871,
+      "buy": 10706109,
+      "sell": 11543458,
+      "net_buy": -837349,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3199,15 +3047,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 8690177,
-      "sell": 9480037,
-      "net_buy": -789860,
+      "buy": 8066225,
+      "sell": 9428980,
+      "net_buy": -1362755,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3215,15 +3063,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 6587188,
-      "sell": 7092340,
-      "net_buy": -505152,
+      "buy": 6223090,
+      "sell": 6841311,
+      "net_buy": -618221,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3231,15 +3079,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "한국투자증권",
-      "buy": 4783550,
+      "buy": 4427831,
       "sell": 4382082,
-      "net_buy": 401468,
+      "net_buy": 45749,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3247,15 +3095,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "20",
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "market": "KOSPI",
+      "broker": "미래에셋증권",
+      "buy": 0,
+      "sell": 4160585,
+      "net_buy": -4160585,
+      "float_shares": "728002365",
+      "listed_shares": "728002365",
+      "market_cap_krw": "180000000000000",
+      "close": "250000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "제이피모간",
-      "buy": 4784254,
+      "buy": 4322576,
       "sell": 0,
-      "net_buy": 4784254,
+      "net_buy": 4322576,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3263,31 +3127,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "20",
-      "ticker": "000660",
-      "name": "SK하이닉스",
-      "market": "KOSPI",
-      "broker": "골드만삭스",
-      "buy": 0,
-      "sell": 4227546,
-      "net_buy": -4227546,
-      "float_shares": "728002365",
-      "listed_shares": "728002365",
-      "market_cap_krw": "180000000000000",
-      "close": "250000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "삼성증권",
-      "buy": 35309176,
-      "sell": 33888742,
-      "net_buy": 1420434,
+      "buy": 34801021,
+      "sell": 33480296,
+      "net_buy": 1320725,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3295,15 +3143,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "키움증권",
-      "buy": 29109040,
-      "sell": 28051723,
-      "net_buy": 1057317,
+      "buy": 28868991,
+      "sell": 28071762,
+      "net_buy": 797229,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3311,15 +3159,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "KB증권",
-      "buy": 23107939,
-      "sell": 23839314,
-      "net_buy": -731375,
+      "buy": 22852983,
+      "sell": 23498359,
+      "net_buy": -645376,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3327,15 +3175,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "제이피모간",
       "buy": 0,
-      "sell": 17248199,
-      "net_buy": -17248199,
+      "sell": 16802846,
+      "net_buy": -16802846,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3343,15 +3191,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "미래에셋증권",
-      "buy": 18605164,
-      "sell": 14117865,
-      "net_buy": 4487299,
+      "buy": 18235383,
+      "sell": 13964483,
+      "net_buy": 4270900,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3359,15 +3207,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "000660",
       "name": "SK하이닉스",
       "market": "KOSPI",
       "broker": "한국투자증권",
-      "buy": 16409540,
+      "buy": 16373910,
       "sell": 0,
-      "net_buy": 16409540,
+      "net_buy": 16373910,
       "float_shares": "728002365",
       "listed_shares": "728002365",
       "market_cap_krw": "180000000000000",
@@ -3375,15 +3223,79 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "메릴린치",
+      "buy": 0,
+      "sell": 48187,
+      "net_buy": -48187,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "키움증권",
+      "buy": 37755,
+      "sell": 19351,
+      "net_buy": 18404,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "한국투자증권",
+      "buy": 34686,
+      "sell": 19835,
+      "net_buy": 14851,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "신한투자증권",
+      "buy": 25153,
+      "sell": 0,
+      "net_buy": 25153,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "제이피모간",
       "buy": 0,
-      "sell": 40751,
-      "net_buy": -40751,
+      "sell": 19094,
+      "net_buy": -19094,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3391,15 +3303,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
-      "broker": "삼성증권",
-      "buy": 63314,
+      "broker": "KB증권",
+      "buy": 20056,
       "sell": 0,
-      "net_buy": 63314,
+      "net_buy": 20056,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3407,15 +3319,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
-      "broker": "모간스탠리",
-      "buy": 0,
-      "sell": 38326,
-      "net_buy": -38326,
+      "broker": "미래에셋증권",
+      "buy": 18907,
+      "sell": 15904,
+      "net_buy": 3003,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3423,111 +3335,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "키움증권",
-      "buy": 48125,
-      "sell": 37484,
-      "net_buy": 10641,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "골드만삭스",
-      "buy": 39289,
-      "sell": 0,
-      "net_buy": 39289,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "신한투자증권",
-      "buy": 0,
-      "sell": 32488,
-      "net_buy": -32488,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "한국투자증권",
-      "buy": 31710,
-      "sell": 31074,
-      "net_buy": 636,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "유진투자증권",
-      "buy": 31196,
-      "sell": 0,
-      "net_buy": 31196,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "한국투자증권",
-      "buy": 209373,
-      "sell": 187098,
-      "net_buy": 22275,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 179600,
-      "sell": 186966,
-      "net_buy": -7366,
+      "buy": 197913,
+      "sell": 179874,
+      "net_buy": 18039,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3535,15 +3351,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "한국투자증권",
+      "buy": 199256,
+      "sell": 171380,
+      "net_buy": 27876,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 106626,
-      "sell": 151695,
-      "net_buy": -45069,
+      "buy": 116951,
+      "sell": 163020,
+      "net_buy": -46069,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3551,15 +3383,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "메릴린치",
-      "buy": 175195,
+      "buy": 145982,
       "sell": 0,
-      "net_buy": 175195,
+      "net_buy": 145982,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3567,15 +3399,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
       "buy": 0,
-      "sell": 94310,
-      "net_buy": -94310,
+      "sell": 83968,
+      "net_buy": -83968,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3583,7 +3415,23 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "247540",
+      "name": "에코프로비엠",
+      "market": "KOSDAQ",
+      "broker": "제이피모간",
+      "buy": 0,
+      "sell": 81511,
+      "net_buy": -81511,
+      "float_shares": "97801344",
+      "listed_shares": "97801344",
+      "market_cap_krw": "13000000000000",
+      "close": "130000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "247540",
       "name": "에코프로비엠",
@@ -3599,31 +3447,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "247540",
-      "name": "에코프로비엠",
-      "market": "KOSDAQ",
-      "broker": "KB증권",
-      "buy": 0,
-      "sell": 94050,
-      "net_buy": -94050,
-      "float_shares": "97801344",
-      "listed_shares": "97801344",
-      "market_cap_krw": "13000000000000",
-      "close": "130000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 961169,
-      "sell": 917296,
-      "net_buy": 43873,
+      "buy": 958831,
+      "sell": 900562,
+      "net_buy": 58269,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3631,15 +3463,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 659075,
-      "sell": 661814,
-      "net_buy": -2739,
+      "buy": 670884,
+      "sell": 640292,
+      "net_buy": 30592,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3647,15 +3479,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 803151,
-      "sell": 616084,
-      "net_buy": 187067,
+      "buy": 811987,
+      "sell": 635435,
+      "net_buy": 176552,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3663,15 +3495,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "메릴린치",
-      "buy": 449525,
-      "sell": 603915,
-      "net_buy": -154390,
+      "buy": 450198,
+      "sell": 628884,
+      "net_buy": -178686,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3679,15 +3511,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 628112,
+      "buy": 608814,
       "sell": 0,
-      "net_buy": 628112,
+      "net_buy": 608814,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3695,7 +3527,7 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "247540",
       "name": "에코프로비엠",
@@ -3711,15 +3543,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 3364386,
-      "sell": 3089282,
-      "net_buy": 275104,
+      "buy": 3359327,
+      "sell": 3054917,
+      "net_buy": 304410,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3727,15 +3559,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 2816772,
-      "sell": 2784068,
-      "net_buy": 32704,
+      "buy": 2789316,
+      "sell": 2699712,
+      "net_buy": 89604,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3743,15 +3575,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 2760524,
-      "sell": 2525954,
-      "net_buy": 234570,
+      "buy": 2748551,
+      "sell": 2502544,
+      "net_buy": 246007,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3759,15 +3591,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "메릴린치",
       "buy": 0,
-      "sell": 1956841,
-      "net_buy": -1956841,
+      "sell": 1916603,
+      "net_buy": -1916603,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3775,15 +3607,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 2327189,
+      "buy": 2320578,
       "sell": 0,
-      "net_buy": 2327189,
+      "net_buy": 2320578,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3791,15 +3623,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "247540",
       "name": "에코프로비엠",
       "market": "KOSDAQ",
       "broker": "KB증권",
-      "buy": 1845702,
-      "sell": 1854503,
-      "net_buy": -8801,
+      "buy": 1838816,
+      "sell": 1845372,
+      "net_buy": -6556,
       "float_shares": "97801344",
       "listed_shares": "97801344",
       "market_cap_krw": "13000000000000",
@@ -3807,15 +3639,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 67022,
-      "sell": 91573,
-      "net_buy": -24551,
+      "buy": 64292,
+      "sell": 87507,
+      "net_buy": -23215,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3823,79 +3655,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "086520",
-      "name": "에코프로",
-      "market": "KOSDAQ",
-      "broker": "골드만삭스",
-      "buy": 96701,
-      "sell": 0,
-      "net_buy": 96701,
-      "float_shares": "26627668",
-      "listed_shares": "26627668",
-      "market_cap_krw": "2200000000000",
-      "close": "83000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "086520",
-      "name": "에코프로",
-      "market": "KOSDAQ",
-      "broker": "신한투자증권",
-      "buy": 0,
-      "sell": 86635,
-      "net_buy": -86635,
-      "float_shares": "26627668",
-      "listed_shares": "26627668",
-      "market_cap_krw": "2200000000000",
-      "close": "83000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "086520",
-      "name": "에코프로",
-      "market": "KOSDAQ",
-      "broker": "키움증권",
-      "buy": 76156,
-      "sell": 59905,
-      "net_buy": 16251,
-      "float_shares": "26627668",
-      "listed_shares": "26627668",
-      "market_cap_krw": "2200000000000",
-      "close": "83000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "086520",
-      "name": "에코프로",
-      "market": "KOSDAQ",
-      "broker": "삼성증권",
-      "buy": 65572,
-      "sell": 71126,
-      "net_buy": -5554,
-      "float_shares": "26627668",
-      "listed_shares": "26627668",
-      "market_cap_krw": "2200000000000",
-      "close": "83000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "제이피모간",
-      "buy": 0,
-      "sell": 65797,
-      "net_buy": -65797,
+      "buy": 98633,
+      "sell": 0,
+      "net_buy": 98633,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3903,15 +3671,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
-      "broker": "미래에셋증권",
-      "buy": 61121,
-      "sell": 0,
-      "net_buy": 61121,
+      "broker": "키움증권",
+      "buy": 0,
+      "sell": 81776,
+      "net_buy": -81776,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3919,15 +3687,79 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "086520",
+      "name": "에코프로",
+      "market": "KOSDAQ",
+      "broker": "메릴린치",
+      "buy": 80992,
+      "sell": 51941,
+      "net_buy": 29051,
+      "float_shares": "26627668",
+      "listed_shares": "26627668",
+      "market_cap_krw": "2200000000000",
+      "close": "83000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "086520",
+      "name": "에코프로",
+      "market": "KOSDAQ",
+      "broker": "삼성증권",
+      "buy": 58325,
+      "sell": 72984,
+      "net_buy": -14659,
+      "float_shares": "26627668",
+      "listed_shares": "26627668",
+      "market_cap_krw": "2200000000000",
+      "close": "83000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "086520",
+      "name": "에코프로",
+      "market": "KOSDAQ",
+      "broker": "골드만삭스",
+      "buy": 66268,
+      "sell": 0,
+      "net_buy": 66268,
+      "float_shares": "26627668",
+      "listed_shares": "26627668",
+      "market_cap_krw": "2200000000000",
+      "close": "83000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "086520",
+      "name": "에코프로",
+      "market": "KOSDAQ",
+      "broker": "NH투자증권",
+      "buy": 0,
+      "sell": 54558,
+      "net_buy": -54558,
+      "float_shares": "26627668",
+      "listed_shares": "26627668",
+      "market_cap_krw": "2200000000000",
+      "close": "83000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "삼성증권",
-      "buy": 389070,
-      "sell": 467677,
-      "net_buy": -78607,
+      "buy": 402643,
+      "sell": 539069,
+      "net_buy": -136426,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3935,15 +3767,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 422660,
-      "sell": 443128,
-      "net_buy": -20468,
+      "buy": 397454,
+      "sell": 452921,
+      "net_buy": -55467,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3951,15 +3783,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 397210,
-      "sell": 379645,
-      "net_buy": 17565,
+      "buy": 379398,
+      "sell": 414753,
+      "net_buy": -35355,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3967,15 +3799,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
       "buy": 0,
-      "sell": 279707,
-      "net_buy": -279707,
+      "sell": 245365,
+      "net_buy": -245365,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3983,15 +3815,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 245651,
-      "sell": 195227,
-      "net_buy": 50424,
+      "buy": 273103,
+      "sell": 0,
+      "net_buy": 273103,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -3999,15 +3831,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
-      "broker": "NH투자증권",
-      "buy": 196060,
-      "sell": 0,
-      "net_buy": 196060,
+      "broker": "메릴린치",
+      "buy": 175136,
+      "sell": 173167,
+      "net_buy": 1969,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4015,15 +3847,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "삼성증권",
-      "buy": 1725993,
-      "sell": 2350858,
-      "net_buy": -624865,
+      "buy": 1784318,
+      "sell": 2347201,
+      "net_buy": -562883,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4031,15 +3863,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 2540844,
-      "sell": 2304378,
-      "net_buy": 236466,
+      "buy": 2535728,
+      "sell": 2304535,
+      "net_buy": 231193,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4047,15 +3879,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 2269310,
-      "sell": 2149410,
-      "net_buy": 119900,
+      "buy": 2205226,
+      "sell": 2223965,
+      "net_buy": -18739,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4063,15 +3895,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 1431677,
-      "sell": 1115644,
-      "net_buy": 316033,
+      "buy": 1377476,
+      "sell": 1165765,
+      "net_buy": 211711,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4079,15 +3911,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 1174306,
-      "sell": 999709,
-      "net_buy": 174597,
+      "buy": 1139269,
+      "sell": 951067,
+      "net_buy": 188202,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4095,15 +3927,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 8611489,
-      "sell": 7791938,
-      "net_buy": 819551,
+      "buy": 8525100,
+      "sell": 7726211,
+      "net_buy": 798889,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4111,15 +3943,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 8521544,
-      "sell": 7681296,
-      "net_buy": 840248,
+      "buy": 8385661,
+      "sell": 7632794,
+      "net_buy": 752867,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4127,15 +3959,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "삼성증권",
-      "buy": 4716813,
-      "sell": 6094595,
-      "net_buy": -1377782,
+      "buy": 4775138,
+      "sell": 5939084,
+      "net_buy": -1163946,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4143,15 +3975,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 4950896,
-      "sell": 4642972,
-      "net_buy": 307924,
+      "buy": 4877376,
+      "sell": 4544518,
+      "net_buy": 332858,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4159,15 +3991,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
       "buy": 0,
-      "sell": 4783670,
-      "net_buy": -4783670,
+      "sell": 4682276,
+      "net_buy": -4682276,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4175,15 +4007,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "086520",
       "name": "에코프로",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 4785526,
+      "buy": 4702718,
       "sell": 0,
-      "net_buy": 4785526,
+      "net_buy": 4702718,
       "float_shares": "26627668",
       "listed_shares": "26627668",
       "market_cap_krw": "2200000000000",
@@ -4191,31 +4023,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "196170",
-      "name": "알테오젠",
-      "market": "KOSDAQ",
-      "broker": "메리츠증권",
-      "buy": 0,
-      "sell": 34799,
-      "net_buy": -34799,
-      "float_shares": "53011179",
-      "listed_shares": "53011179",
-      "market_cap_krw": "22000000000000",
-      "close": "415000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 36786,
-      "sell": 32306,
-      "net_buy": 4480,
+      "buy": 107411,
+      "sell": 132914,
+      "net_buy": -25503,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4223,15 +4039,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 30807,
-      "sell": 27030,
-      "net_buy": 3777,
+      "buy": 69359,
+      "sell": 94424,
+      "net_buy": -25065,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4239,15 +4055,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 23564,
-      "sell": 30669,
-      "net_buy": -7105,
+      "buy": 95286,
+      "sell": 75922,
+      "net_buy": 19364,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4255,31 +4071,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "1",
-      "ticker": "196170",
-      "name": "알테오젠",
-      "market": "KOSDAQ",
-      "broker": "NH투자증권",
-      "buy": 28499,
-      "sell": 0,
-      "net_buy": 28499,
-      "float_shares": "53011179",
-      "listed_shares": "53011179",
-      "market_cap_krw": "22000000000000",
-      "close": "415000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 0,
-      "sell": 29740,
-      "net_buy": -29740,
+      "buy": 57535,
+      "sell": 77094,
+      "net_buy": -19559,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4287,15 +4087,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "1",
+      "ticker": "196170",
+      "name": "알테오젠",
+      "market": "KOSDAQ",
+      "broker": "NH투자증권",
+      "buy": 70693,
+      "sell": 0,
+      "net_buy": 70693,
+      "float_shares": "53011179",
+      "listed_shares": "53011179",
+      "market_cap_krw": "22000000000000",
+      "close": "415000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "1",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "삼성증권",
-      "buy": 22645,
-      "sell": 0,
-      "net_buy": 22645,
+      "buy": 0,
+      "sell": 57731,
+      "net_buy": -57731,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4303,15 +4119,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 325328,
-      "sell": 426715,
-      "net_buy": -101387,
+      "buy": 408595,
+      "sell": 513139,
+      "net_buy": -104544,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4319,31 +4135,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
-      "period": "5",
-      "ticker": "196170",
-      "name": "알테오젠",
-      "market": "KOSDAQ",
-      "broker": "신한투자증권",
-      "buy": 187678,
-      "sell": 245027,
-      "net_buy": -57349,
-      "float_shares": "53011179",
-      "listed_shares": "53011179",
-      "market_cap_krw": "22000000000000",
-      "close": "415000",
-      "source": "naver-finance-broker-table"
-    },
-    {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 253314,
-      "sell": 242857,
-      "net_buy": 10457,
+      "buy": 265834,
+      "sell": 290843,
+      "net_buy": -25009,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4351,15 +4151,31 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
+      "period": "5",
+      "ticker": "196170",
+      "name": "알테오젠",
+      "market": "KOSDAQ",
+      "broker": "신한투자증권",
+      "buy": 248612,
+      "sell": 284236,
+      "net_buy": -35624,
+      "float_shares": "53011179",
+      "listed_shares": "53011179",
+      "market_cap_krw": "22000000000000",
+      "close": "415000",
+      "source": "naver-finance-broker-table"
+    },
+    {
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 207253,
-      "sell": 177978,
-      "net_buy": 29275,
+      "buy": 250251,
+      "sell": 201592,
+      "net_buy": 48659,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4367,15 +4183,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "5",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 146189,
-      "sell": 204599,
-      "net_buy": -58410,
+      "buy": 198854,
+      "sell": 255429,
+      "net_buy": -56575,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4383,15 +4199,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 1174827,
-      "sell": 1244562,
-      "net_buy": -69735,
+      "buy": 1256458,
+      "sell": 1368370,
+      "net_buy": -111912,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4399,15 +4215,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 871926,
-      "sell": 976754,
-      "net_buy": -104828,
+      "buy": 906552,
+      "sell": 1030172,
+      "net_buy": -123620,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4415,15 +4231,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 793365,
-      "sell": 944935,
-      "net_buy": -151570,
+      "buy": 863618,
+      "sell": 966385,
+      "net_buy": -102767,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4431,15 +4247,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 728313,
-      "sell": 731477,
-      "net_buy": -3164,
+      "buy": 746894,
+      "sell": 808947,
+      "net_buy": -62053,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4447,15 +4263,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "20",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 635808,
-      "sell": 619616,
-      "net_buy": 16192,
+      "buy": 696457,
+      "sell": 674884,
+      "net_buy": 21573,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4463,15 +4279,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "키움증권",
-      "buy": 3152901,
-      "sell": 3268772,
-      "net_buy": -115871,
+      "buy": 3225077,
+      "sell": 3376354,
+      "net_buy": -151277,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4479,15 +4295,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "신한투자증권",
-      "buy": 2829731,
-      "sell": 3005410,
-      "net_buy": -175679,
+      "buy": 2897558,
+      "sell": 3037441,
+      "net_buy": -139883,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4495,15 +4311,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "한국투자증권",
-      "buy": 2556051,
-      "sell": 2571288,
-      "net_buy": -15237,
+      "buy": 2585762,
+      "sell": 2589292,
+      "net_buy": -3530,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4511,15 +4327,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "NH투자증권",
-      "buy": 1881160,
-      "sell": 2176566,
-      "net_buy": -295406,
+      "buy": 1924970,
+      "sell": 2210974,
+      "net_buy": -286004,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
@@ -4527,15 +4343,15 @@
       "source": "naver-finance-broker-table"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "period": "60",
       "ticker": "196170",
       "name": "알테오젠",
       "market": "KOSDAQ",
       "broker": "미래에셋증권",
-      "buy": 2286272,
-      "sell": 1990649,
-      "net_buy": 295623,
+      "buy": 2320551,
+      "sell": 2052489,
+      "net_buy": 268062,
       "float_shares": "53011179",
       "listed_shares": "53011179",
       "market_cap_krw": "22000000000000",
